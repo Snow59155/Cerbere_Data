@@ -1,0 +1,193 @@
+{
+    "lame_img": {
+        "balla": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/8/8e/ZawStrikeBalla.png/revision/latest/scale-to-width-down/150?cb=20171221181921",
+            "description": "descip"
+        },
+        "dokrahm": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/6/68/ZawStrikeDokrahm.png/revision/latest/scale-to-width-down/150?cb=20180421215346",
+            "description": "descip"
+        },
+        "kronsh": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/b/bf/ZawStrikeKronsh.png/revision/latest/scale-to-width-down/150?cb=20171221181854",
+            "description": "descip"
+        },
+        "ooltha": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/1/1f/ZawStrikeOoltha.png/revision/latest/scale-to-width-down/150?cb=20171221181742",
+            "description": "descip"
+        },
+        "plague_keewar": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/3/30/PlagueKeewar.png/revision/latest/scale-to-width-down/150?cb=20171117032510",
+            "description": "descip"
+        },
+        "plague_kripath": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/b/b2/PlagueKripath.png/revision/latest/scale-to-width-down/150?cb=20171117032435",
+            "description": "descip"
+        },
+        "rabvee": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/6/60/ZawStrikeRabvee.png/revision/latest/scale-to-width-down/150?cb=20180421215334",
+            "description": "descip"
+        },
+        "sepfahn": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/c/c2/ZawStrikeSepfahn.png/revision/latest/scale-to-width-down/150?cb=20180421215305",
+            "description": "descip"
+        },
+        "dehtat": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/a/af/ZawStrikeDehtat.png/revision/latest/scale-to-width-down/150?cb=20171221181948",
+            "description": "descip"
+        },
+        "cyath": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/5/5a/ZawStrikeCyath.png/revision/latest/scale-to-width-down/150?cb=20171221181820",
+            "description": "descip"
+        },
+        "mewan": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/3/33/ZawStrikeMewan.png/revision/latest/scale-to-width-down/150?cb=20171221182016",
+            "description": "descip"
+        }
+    },
+    "manche_img": {
+        "korb": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/a/ae/ZawGripKorb.png/revision/latest/scale-to-width-down/100?cb=20180421215419",
+            "description": "descip"
+        },
+        "laka": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/f/fb/ZawGripLaka.png/revision/latest/scale-to-width-down/100?cb=20171221182405",
+            "description": "descip"
+        },
+        "kwath": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/f/f2/ZawGripKwath.png/revision/latest/scale-to-width-down/100?cb=20171221182336",
+            "description": "descip"
+        },
+        "plague_bokwin": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/5/5b/PlagueBokwin.png/revision/latest/scale-to-width-down/100?cb=20171117032539",
+            "description": "descip"
+        },
+        "plague_akwin": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/0/0f/PlagueAkwin.png/revision/latest/scale-to-width-down/100?cb=20171117032615",
+            "description": "descip"
+        },
+        "seekalla": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/7/71/ZawGripSeekalla.png/revision/latest/scale-to-width-down/100?cb=20171221182259",
+            "description": "descip"
+        },
+        "shtung": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/3/3a/ZawGripShtung.png/revision/latest/scale-to-width-down/100?cb=20180421215405",
+            "description": "descip"
+        },
+        "jayap": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/f/fd/ZawGripJayap.png/revision/latest/scale-to-width-down/100?cb=20171221182139",
+            "description": "descip"
+        },
+        "kroostra": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/1/13/ZawGripKroostra.png/revision/latest/scale-to-width-down/100?cb=20171221182213",
+            "description": "descip"
+        },
+        "peye": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/2/26/ZawGripPeye.png/revision/latest/scale-to-width-down/100?cb=20171221182102",
+            "description": "descip"
+        }
+    },
+    "lien_img": {
+        "jai": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/a/a7/ZawLinkJai.png/revision/latest/scale-to-width-down/100?cb=20171221182555",
+            "description": "descip"
+        },
+        "jai2": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/3/3e/ZawLinkJai2.png/revision/latest/scale-to-width-down/100?cb=20171221182533",
+            "description": "descip"
+        },
+        "ruhang": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/a/a6/ZawLinkRuhang.png/revision/latest/scale-to-width-down/100?cb=20171221182618",
+            "description": "descip"
+        },
+        "ruhang2": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/4/40/ZawLinkRuhang2.png/revision/latest/scale-to-width-down/100?cb=20171221182509",
+            "description": "descip"
+        },
+        "ekwana_jai": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/e/e8/ZawLinkEkwanaJai.png/revision/latest/scale-to-width-down/100?cb=20171221182756",
+            "description": "descip"
+        },
+        "ekwana_ruhang": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/a/a3/ZawLinkEkwanaRuhang.png/revision/latest/scale-to-width-down/100?cb=20171221182708",
+            "description": "descip"
+        },
+        "vargeet_jai": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/f/f1/ZawLinkVargeetJai.png/revision/latest/scale-to-width-down/100?cb=20171221182738",
+            "description": "descip"
+        },
+        "vargeet_ruhang": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/d/d3/ZawLinkVargeetRuhang.png/revision/latest/scale-to-width-down/100?cb=20171221182645",
+            "description": "descip"
+        },
+        "ekwana2_jai": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/7/71/ZawLinkVargeet2Jai.png/revision/latest/scale-to-width-down/100?cb=20171221182901",
+            "description": "descip"
+        },
+        "ekwana2_ruhang": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/3/3a/ZawLinkEkwana2Ruhang.png/revision/latest/scale-to-width-down/100?cb=20171221182845",
+            "description": "descip"
+        },
+        "vargeet2_jai": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/7/71/ZawLinkVargeet2Jai.png/revision/latest/scale-to-width-down/100?cb=20171221182901",
+            "description": "descip"
+        },
+        "vargeet2_ruhang": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/f/f4/ZawLinkVargeet2Ruhang.png/revision/latest/scale-to-width-down/100?cb=20171221182817",
+            "description": "descip"
+        },
+        "ekwana_jai2": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/6/63/ZawLinkEkwanaJai2.png/revision/latest/scale-to-width-down/100?cb=20171221183124",
+            "description": "descip"
+        },
+        "ekwana_ruhang2": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/e/ea/ZawLinkEkwanaRuhang2.png/revision/latest/scale-to-width-down/100?cb=20171221183018",
+            "description": "descip"
+        },
+        "vargeet_jai2": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/8/88/ZawLinkVargeetJai2.png/revision/latest/scale-to-width-down/100?cb=20171221183048",
+            "description": "descip"
+        },
+        "vargeet_ruhang2": {
+            "wikiurl": "url",
+            "img": "https://static.wikia.nocookie.net/warframe/images/7/73/ZawLinkVargeetRuhang2.png/revision/latest/scale-to-width-down/100?cb=20171221182955",
+            "description": "descip"
+        }
+    }
+}

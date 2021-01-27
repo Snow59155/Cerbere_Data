@@ -1,0 +1,89 @@
+{
+    "prism": {
+        "1": "raplak",
+        "c1": "raplak",
+        "raplak": "raplak",
+
+        "2": "shwaak",
+        "c2": "shwaak",
+        "shwaak": "shwaak",
+
+        "3": "granmu",
+        "c3": "granmu",
+        "granmu": "granmu",
+
+        "4": "rahn",
+        "c4": "rahn",
+        "rahn": "rahn",
+
+        "5": "cantic",
+        "f1": "cantic",
+        "cantic": "cantic",
+
+        "6": "lega",
+        "f2": "lega",
+        "lega": "lega",
+
+        "7": "klamora",
+        "f3": "klamora",
+        "klamora": "klamora"
+    },
+    "support": {
+        "1": "pencha",
+        "c1": "pencha",
+        "pencha": "pencha",
+
+        "2": "shraksun",
+        "c2": "shraksun",
+        "shraksun": "shraksun",
+
+        "3": "klebrik",
+        "c3": "klebrik",
+        "klebrik": "klebrik",
+
+        "4": "phahd",
+        "c4": "phahd",
+        "phahd": "phahd",
+
+        "5": "exard",
+        "f1": "exard",
+        "exard": "exard",
+
+        "6": "dissic",
+        "f2": "dissic",
+        "dissic": "dissic",
+
+        "7": "propa",
+        "f3": "propa",
+        "propa": "propa"
+    },
+    "attelle": {
+        "1": "clapkra",
+        "c1": "clapkra",
+        "clapkra": "clapkra",
+
+        "2": "juttni",
+        "c2": "juttni",
+        "juttni": "juttni",
+
+        "3": "lohrin",
+        "c3": "lohrin",
+        "lohrin": "lohrin",
+
+        "4": "anspatha",
+        "c4": "anspatha",
+        "anspatha": "anspatha",
+
+        "5": "suo",
+        "f1": "suo",
+        "suo": "suo",
+
+        "6": "plaga", 
+        "f2": "plaga", 
+        "plaga": "plaga",
+
+        "7": "certus",
+        "f3": "certus",
+        "certus": "certus"
+    }
+}

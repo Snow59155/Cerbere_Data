@@ -1,0 +1,252 @@
+{
+    "tete": {
+
+        "lambeo": {
+            "description": "Livré avec les mods précepte Stasis Field et Shockwave Actuators. Haut-de-forme",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/9/95/Lambeo.png/revision/latest/scale-to-width-down/150?cb=20190327014316&path-prefix=fr"
+        },
+        "oloro": {
+            "description": "Livré avec les mods de précepte Tractor Beam et Security Override.",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/3/38/Oloro.png/revision/latest/scale-to-width-down/150?cb=20190327014234&path-prefix=fr"
+        },
+        "para": {
+            "description": "Livré avec les mods de précepte Whiplash Mine et Anti-Grav Grenade.",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/b/bb/Para.png/revision/latest/scale-to-width-down/150?cb=20190327014307&path-prefix=fr"
+        },
+        "nychus": {
+            "description": "Livré avec les mods de précepte Charge Isolante et  Combat Rapproché",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/6/65/Nychus.png/revision/latest/scale-to-width-down/150?cb=20200612171141&path-prefix=fr"
+        }
+
+    },
+
+    "noyauxgyro": {
+
+        "drex_atheca": {
+            "santé": "130",
+            "bouclier": "110",
+            "armure": "100"
+        },
+        "alcrom_atheca": {
+            "santé": "130",
+            "bouclier": "105",
+            "armure": "105"
+        },
+        "drex_hextra": {
+            "santé": "120",
+            "bouclier": "120",
+            "armure": "100"
+        },
+        "drex_harpen": {
+            "santé": "115",
+            "bouclier": "125",
+            "armure": "100"
+        },
+        "krisys_atheca": {
+            "santé": "130",
+            "bouclier": "100",
+            "armure": "110"
+        },
+        "alcrom_hextra ": {
+            "santé": "120",
+            "bouclier": "115",
+            "armure": "105"
+        },
+        "alcrom_harpen": {
+            "santé": "115",
+            "bouclier": "120",
+            "armure": "105"
+        },
+        "drex_munit": {
+            "santé": "120",
+            "bouclier": "110",
+            "armure": "110"
+        },
+        "krisys_hextra": {
+            "santé": "120",
+            "bouclier": "120",
+            "armure": "110"
+        },
+        "krisys_harpen": {
+            "santé": "115",
+            "bouclier": "115",
+            "armure": "110"
+        },
+        "alcrom_munit": {
+            "santé": "120",
+            "bouclier": "105",
+            "armure": "115"
+        },
+        "drex_trux": {
+            "santé": "115",
+            "bouclier": "110",
+            "armure": "115"
+        },
+        "drex_phazor": {
+            "santé": "105",
+            "bouclier": "125",
+            "armure": "110"
+        },
+        "krisys_munit": {
+            "santé": "120",
+            "bouclier": "100",
+            "armure": "110"
+        },
+        "alcrom_trux": {
+            "santé": "115",
+            "bouclier": "105",
+            "armure": "120"
+        },
+        "drex_aegron": {
+            "santé": "105",
+            "bouclier": "120",
+            "armure": "115"
+        },
+        "alcrom_phazon": {
+            "santé": "105",
+            "bouclier": "120",
+            "armure": "115"
+        },
+        "krisys_trux": {
+            "santé": "115",
+            "bouclier": "100",
+            "armure": "125"
+        },
+        "alcrom_aegron": {
+            "santé": "105",
+            "bouclier": "115",
+            "armure": "120"
+        },
+        "krisys_phazor": {
+            "santé": "105",
+            "bouclier": "115",
+            "armure": "120"
+        },
+        "krisys_aegron": {
+            "santé": "105",
+            "bouclier": "110",
+            "armure": "125"
+        },
+
+        "lehan_aegron": {
+            "santé": "125",
+            "bouclier": "105",
+            "armure": "100"
+        },
+
+        "lehan_atheca": {
+            "santé": "110",
+            "bouclier": "95",
+            "armure": "135"
+        },
+
+        "lehan_harpen": {
+            "santé": "110",
+            "bouclier": "110",
+            "armure": "120"
+        },
+
+        "lehan_hextra": {
+            "santé": "110",
+            "bouclier": "105",
+            "armure": "125"
+        },
+
+        "lehan_munit": {
+            "santé": "120",
+            "bouclier": "95",
+            "armure": "125"
+        },
+
+        "lehan_phazor": {
+            "santé": "120",
+            "bouclier": "110",
+            "armure": "110"
+        },
+
+        "lehan_trux": {
+            "santé": "125",
+            "bouclier": "95",
+            "armure": "120"
+        },
+
+        "lehan_tyli": {
+            "santé": "125",
+            "bouclier": "90",
+            "armure": "125"
+        },
+
+        "alcrom_tyli": {
+            "santé": "120",
+            "bouclier": "100",
+            "armure": "120"
+        },
+
+        "drex_tyli": {
+            "santé": "115",
+            "bouclier": "105",
+            "armure": "120"
+        },
+
+        "krisys_tyli": {
+            "santé": "125",
+            "bouclier": "95",
+            "armure": "120"
+        }
+
+    },
+
+    "jambe": {
+
+        "drimper":{
+            "description": "`aucune polarité`",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/3/37/Drimper.png/revision/latest/scale-to-width-down/150?cb=20190326160228&path-prefix=fr"
+        },
+        "tian": {
+            "description": "<:Vazarin:773941690674184222>",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/f/f6/Tian.png/revision/latest/scale-to-width-down/150?cb=20190326160257&path-prefix=fr"
+        },
+        "jonsin": {
+            "description": "<:Madurai:773941690649018378>",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/4/43/Jonsin.png/revision/latest/scale-to-width-down/150?cb=20190326160308&path-prefix=fr"
+        },
+        "gauth": {
+            "description": "<:Naramon:773941690532102165>",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/c/cd/Gauth.png/revision/latest/scale-to-width-down/150?cb=20190326160321&path-prefix=fr"
+        },
+        "hona": {
+            "description": "<:Naramon:773941690532102165>",
+            "urlimage": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/%C3%89chasse_Hona.png/revision/latest/scale-to-width-down/150?cb=20200612170230&path-prefix=fr"
+        }
+
+
+    },
+
+    "gyrourl": {
+        "drex":"https://vignette.wikia.nocookie.net/warframe/images/3/3f/Drex.png/revision/latest/scale-to-width-down/150?cb=20190327014423&path-prefix=fr",
+        "alcrom":"https://vignette.wikia.nocookie.net/warframe/images/9/91/Alcrom.png/revision/latest/scale-to-width-down/150?cb=20190327014412&path-prefix=fr",
+        "krisys":"https://vignette.wikia.nocookie.net/warframe/images/4/46/Krisys.png/revision/latest/scale-to-width-down/150?cb=20190327014434&path-prefix=fr",
+        "lehan": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/Lehan.png/revision/latest/scale-to-width-down/150?cb=20200612170447&path-prefix=fr"
+    },
+
+    "coeururl": {
+        "aegron":"https://vignette.wikia.nocookie.net/warframe/images/c/c6/Aegron.png/revision/latest/scale-to-width-down/150?cb=20190327014829&path-prefix=fr",
+        "phazor":"https://vignette.wikia.nocookie.net/warframe/images/6/67/Phazor.png/revision/latest/scale-to-width-down/150?cb=20190327015002&path-prefix=fr",
+        "trux":"https://vignette.wikia.nocookie.net/warframe/images/6/64/Trux.png/revision/latest/scale-to-width-down/150?cb=20190327014900&path-prefix=fr",
+        "munit":"https://vignette.wikia.nocookie.net/warframe/images/8/82/Munit.png/revision/latest/scale-to-width-down/150?cb=20190327014849&path-prefix=fr",
+        "atheca":"https://vignette.wikia.nocookie.net/warframe/images/6/6d/Atheca.png/revision/latest/scale-to-width-down/150?cb=20190327014943&path-prefix=fr",
+        "harpen":"https://vignette.wikia.nocookie.net/warframe/images/b/bc/Harpen.png/revision/latest/scale-to-width-down/150?cb=20190327014838&path-prefix=fr",
+        "hextra":"https://vignette.wikia.nocookie.net/warframe/images/2/2a/Hextra.png/revision/latest/scale-to-width-down/150?cb=20190327014953&path-prefix=fr",
+        "tyli": "https://vignette.wikia.nocookie.net/warframe/images/3/3b/Tyli.png/revision/latest/scale-to-width-down/150?cb=20200612165543&path-prefix=fr"
+    },
+
+    "moa_list": {
+
+        "tete": "- **lambeo** : cse modèle est conçu pour la Défense\n- **oloro** : ce modèle est conçu pour l'Utilitaire\n- **para** : ce modèle est conçu pour l'Offensive\n- **nychus** : ce modèle est conçu pour les ataque en mélée",
+        "coeur": "- **drex** : `+5,0%` Santé | `+7,5%` Bouclier | `+2,5` Armure\n- **alcrom** : `+5,0%` Santer | `+5,0%` Bouclier | `+5,0%` Armure\n- **krisys** : `+5,0%` Santé | `+2,5%` Bouclier | `+7,5%` Armure\n- **lehan** : `undefined`",
+        "gyro": "- **aegron** : `-2,5%` Santé | `+2,5%` Bouclier | `+5,0%` Armure\n- **atheca** : `+10,0%` Santé | `-2,5` Bouclier | `-2,5%` Armure\n- **harpen** : `+2,5%` Santé | `+5,0%` Bouclier | `-2,5%` Armure\n- **hextra** : `+5,0%` Santé | `+2,5%` Bouclier | `-2,5%` Armure\n- **munit** : `+5,0%` Santé | `-2,5%` Bouclier | `+2,5%` Armure\n- **phazor** : `-2,5%` Santé | `+5,0%` Bouclier | `+2,5%` Armure\n- **trux** : `+2,5%` Santé | `-2,5%` Bouclier | `+5,0%` Armure\n- **tyli** : `undefined`",
+        "jambe": "- **drimper** : `sans polariter`\n- **gauth** : `polarité Naramon`\n- **jonsin** : `polarité Madurai`\n- **tian** : `polarité Vazarin`\n- **hona** : `undefined`"
+
+    }
+
+}

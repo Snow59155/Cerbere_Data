@@ -1,0 +1,2272 @@
+{
+    "balla": {
+        "dmg": 224.0,
+        "vitesse": 0.083,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "dague",
+            "bâton"
+        ],
+        "polarité": "<:Madurai:773941690649018378>",
+
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.950,
+                "genre": "dague"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.167,
+                "genre": "dague"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.117,
+                "genre": "dague"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.083,
+                "genre": "dague"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.017,
+                "genre": "dague"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 166.65198237885462555066079295154,
+                "vitesse": 1.050,
+                "genre": "baton"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 166.65198237885462555066079295154,
+                "vitesse": 1.167,
+                "genre": "baton"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 166.65198237885462555066079295154,
+                "vitesse": 0.950,
+                "genre": "baton"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 166.65198237885462555066079295154,
+                "vitesse": 1.083,
+                "genre": "baton"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 166.65198237885462555066079295154,
+                "vitesse": 1.017,
+                "genre": "baton"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+            }
+
+        }
+
+    },
+    "dokrahm": {
+        "dmg": 309,
+        "vitesse": 0.083,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "faux",
+            "arme lourde"
+        ],
+        "polarité": "<:Madurai:773941690649018378>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.950,
+                "genre": "faux"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.167,
+                "genre": "faux"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.117,
+                "genre": "faux"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.083,
+                "genre": "faux"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.017,
+                "genre": "faux"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.050,
+                "genre": "arme lourde"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.167,
+                "genre": "arme lourde"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.950,
+                "genre": "arme lourde"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.083,
+                "genre": "arme lourde"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.017,
+                "genre": "arme lourde"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+            }
+
+        }
+
+    },
+
+    "kronsh": {
+        "dmg": 234,
+        "vitesse": 0.067,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "machette",
+            "arme d'hast"
+        ],
+        "polarité": "<:Naramon:773941690532102165>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.800,
+                "genre": "machette"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.017,
+                "genre": "machette"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.967,
+                "genre": "machette"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.933,
+                "genre": "machette"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.867,
+                "genre": "machette"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66679811,
+                "vitesse": 0.900,
+                "genre": "arme d'hast"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66679811,
+                "vitesse": 1.017,
+                "genre": "arme d'hast"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66679811,
+                "vitesse": 0.800,
+                "genre": "arme d'hast"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66679811,
+                "vitesse": 0.933,
+                "genre": "arme d'hast"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66679811,
+                "vitesse": 0.867,
+                "genre": "arme d'hast"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+            }
+
+        }
+
+    },
+
+    "ooltha": {
+        "dmg": 224,
+        "vitesse": 0.000,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "épée",
+            "bâton"
+        ],
+        "polarité": "<:Madurai:773941690649018378>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.867,
+                "genre": "épée"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.083,
+                "genre": "épée"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.033,
+                "genre": "épée"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.000,
+                "genre": "épée"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.933,
+                "genre": "épée"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666519823788546,
+                "vitesse": 0.967,
+                "genre": "baton"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666519823788546,
+                "vitesse": 1.083,
+                "genre": "baton"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666519823788546,
+                "vitesse": 0.867,
+                "genre": "baton"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666519823788546,
+                "vitesse": 1.000,
+                "genre": "baton"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666519823788546,
+                "vitesse": 0.933,
+                "genre": "baton"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+            }
+
+        }
+
+    },
+
+    "plague_keewar": {
+        "dmg": 306,
+        "vitesse": -0.033,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "viraledmg": 22.56,
+        "statut": 22,
+        "genre": [
+            "faux",
+            "bâton"
+        ],
+        "polarité": "<:Madurai:773941690649018378>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.833,
+                "genre": "faux"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.050,
+                "genre": "faux"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.000,
+                "genre": "faux"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.967,
+                "genre": "faux"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.900,
+                "genre": "faux"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 200,
+                "vitesse": 0.933,
+                "genre": "baton"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 200,
+                "vitesse": 1.050,
+                "genre": "baton"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 200,
+                "vitesse": 0.833,
+                "genre": "baton"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 200,
+                "vitesse": 0.967,
+                "genre": "baton"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 200,
+                "vitesse": 0.900,
+                "genre": "baton"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+            }
+
+        }
+
+    },
+
+    "plague_kripath": {
+        "dmg": 213,
+        "vitesse": 0.033,
+        "crit": 22,
+        "multiplicateurcrit": "2.0x",
+        "viraledmg": 28.90,
+        "statut": 18,
+        "genre": [
+            "rapière",
+            "arme d'hast"
+        ],
+        "polarité": "<:Naramon:773941690532102165>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.900,
+                "genre": "rapiere"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.117,
+                "genre": "rapiere"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.067,
+                "genre": "rapiere"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.033,
+                "genre": "rapiere"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.967,
+                "genre": "rapiere"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66652378911273,
+                "vitesse": 1.000,
+                "genre": "arme d'hast"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66652378911273,
+                "vitesse": 1.117,
+                "genre": "arme d'hast"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66652378911273,
+                "vitesse": 0.900,
+                "genre": "arme d'hast"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66652378911273,
+                "vitesse": 1.033,
+                "genre": "arme d'hast"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.66652378911273,
+                "vitesse": 0.867,
+                "genre": "arme d'hast"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+
+            }
+
+        }
+
+    },
+
+    "rabvee": {
+        "dmg": 234,
+        "vitesse": -0.067,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "machette",
+            "marteau"
+        ],
+        "polarité": "<:Zenurik:773941690733035530>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.800,
+                "genre": "machette"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.017,
+                "genre": "machette"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.967,
+                "genre": "machette"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.933,
+                "genre": "machette"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.867,
+                "genre": "machette"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.900,
+                "genre": "marteau"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 1.017,
+                "genre": "marteau"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.800,
+                "genre": "marteau"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.933,
+                "genre": "marteau"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 200,
+                "vitesse": 0.867,
+                "genre": "marteau"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+
+            }
+
+        }
+
+    },
+
+    "sepfahn": {
+        "dmg": 226,
+        "vitesse": 0.000,
+        "crit": 20,
+        "multiplicateurcrit": "2.0x",
+        "statut": 20,
+        "genre": [
+            "nikana",
+            "bâton"
+        ],
+        "polarité": "<:Madurai:773941690649018378>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 2.1428,
+                "vitesse": 0.867,
+                "genre": "nikana"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 2.1428,
+                "vitesse": 1.083,
+                "genre": "nikana"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 2.1428,
+                "vitesse": 1.033,
+                "genre": "nikana"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 2.1428,
+                "vitesse": 1.000,
+                "genre": "nikana"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 2.1428,
+                "vitesse": 0.933,
+                "genre": "nikana"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666812227,
+                "vitesse": 0.967,
+                "genre": "baton"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666812227,
+                "vitesse": 1.083,
+                "genre": "baton"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666812227,
+                "vitesse": 0.867,
+                "genre": "baton"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666812227,
+                "vitesse": 1.000,
+                "genre": "baton"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 100,
+                "dmg%murale": 1.666812227,
+                "vitesse": 0.933,
+                "genre": "baton"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+
+            }
+
+        }
+
+    },
+
+    "dehtat": {
+        "dmg": 224,
+        "vitesse": 0.083,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "rapiere",
+            "arme d'hast"
+        ],
+        "polarité": "<:Naramon:773941690532102165>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.950,
+                "genre": "rapiere"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.167,
+                "genre": "rapiere"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.117,
+                "genre": "rapiere"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.083,
+                "genre": "rapiere"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.017,
+                "genre": "rapiere"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 1.050,
+                "genre": "arme d'hast"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 1.167,
+                "genre": "arme d'hast"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 0.950,
+                "genre": "arme d'hast"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 1.083,
+                "genre": "arme d'hast"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 1.017,
+                "genre": "arme d'hast"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+
+            }
+
+        }
+
+    },
+
+    "cyath": {
+        "dmg": 230,
+        "vitesse": 0.000,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "machette",
+            "arme d'hast"
+        ],
+        "polarité": "<:Zenurik:773941690733035530>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.867,
+                "genre": "machette"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.083,
+                "genre": "machette"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.033,
+                "genre": "machette"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 1.000,
+                "genre": "machette"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 200,
+                "dmg%murale": 300,
+                "vitesse": 0.933,
+                "genre": "machette"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666931638,
+                "vitesse": 0.967,
+                "genre": "arme d'hast"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666931638,
+                "vitesse": 1.083,
+                "genre": "arme d'hast"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666931638,
+                "vitesse": 0.867,
+                "genre": "arme d'hast"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666931638,
+                "vitesse": 1.000,
+                "genre": "arme d'hast"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666931638,
+                "vitesse": 0.933,
+                "genre": "arme d'hast"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+
+            }
+
+        }
+
+    },
+
+    "mewan": {
+        "dmg": 224,
+        "vitesse": -0.067,
+        "crit": 18,
+        "multiplicateurcrit": "2.0x",
+        "statut": 18,
+        "genre": [
+            "épée",
+            "arme d'hast"
+        ],
+        "polarité": "<:Madurai:773941690649018378>",
+        
+        "poignée": {
+            "korb": {
+                "type": "1 main",
+                "dmg": 28.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.800,
+                "genre": "epee"
+            },
+            "peye": {
+                "type": "1 main",
+                "dmg": -4.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 1.017,
+                "genre": "epee"
+            },
+            "plague_akwin": {
+                "type": "1 main",
+                "dmg": -2.0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.967,
+                "genre": "epee"
+            },
+            "laka": {
+                "type": "1 main",
+                "dmg": 0,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.933,
+                "genre": "epee"
+            },
+            "kwath": {
+                "type": "1 main",
+                "dmg": 14,
+                "dmg%saut": 200,
+                "dmg%glissade": 100,
+                "dmg%murale": 300,
+                "vitesse": 0.867,
+                "genre": "epee"
+            },
+            "plague_bokwin": {
+                "type": "2 main",
+                "dmg": 7,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 0.900,
+                "genre": "arme d'hast"
+            },
+            "seekalla": {
+                "type": "2 main",
+                "dmg": -4.0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 1.017,
+                "genre": "arme d'hast"
+            },
+            "shtung": {
+                "type": "2 main",
+                "dmg": -28,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 0.800,
+                "genre": "arme d'hast"
+            },
+            "jayap": {
+                "type": "2 main",
+                "dmg": 0,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 0.933,
+                "genre": "arme d'hast"
+            },
+            "kroostra": {
+                "type": "2 main",
+                "dmg": 14,
+                "dmg%saut": 300,
+                "dmg%glissade": 200,
+                "dmg%murale": 1.666936136,
+                "vitesse": 0.867,
+                "genre": "arme d'hast"
+            }
+        },
+        "lien": {
+            "jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 0,
+                "status": 0
+            },
+            "jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 0,
+                "status": 0
+            },
+            "ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 0,
+                "status": 0
+            },
+            "ekwana_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "ekwana2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "ekwana2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": -8.0,
+                "status": 14.0
+            },
+            "vargeet2_jai": {
+                "dmg": -4.0,
+                "vitesse": 0.083,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "vargeet2_ruhang": {
+                "dmg": 14.0,
+                "vitesse": -0.067,
+                "crit": 14.0,
+                "status": -8.0
+            },
+            "ekwana_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "ekwana_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": -4.0,
+                "status": 7.0
+            },
+            "vargeet_jai2": {
+                "dmg": -8.0,
+                "vitesse": 0.167,
+                "crit": 7.0,
+                "status": -4.0
+            },
+            "vargeet_ruhang2": {
+                "dmg": 28.0,
+                "vitesse": -0.133,
+                "crit": 7.0,
+                "status": -4.0
+
+            }
+        }
+    }
+}      

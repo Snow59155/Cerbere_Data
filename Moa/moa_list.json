@@ -1,0 +1,33 @@
+{
+    "list": {
+        "list_tete": [
+            "lambeo",
+            "oloro",
+            "para",
+            "nychus"
+        ],
+        "list_jambe": [
+            "drimper",
+            "tian",
+            "jonsin",
+            "gauth",
+            "hona"
+        ],
+        "list_coeur": [
+            "drex",
+            "alcrom",
+            "krisys",
+            "lehan"
+        ],
+        "list_gyro": [
+            "aegron",
+            "phazor",
+            "trux",
+            "munit",
+            "atheca",
+            "harpen",
+            "hextra",
+            "tyli"
+        ]
+    }
+}

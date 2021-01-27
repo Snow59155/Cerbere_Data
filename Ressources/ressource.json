@@ -1,0 +1,1259 @@
+{
+    "extrait de nitain": {
+        "nom": "Extrait de Nitain",
+        "description": "S'obtient en récompence des Ondes Nocturnes (Nora Night) contre des points, ou les Mises à Prix Goules de Cetus peuvent récompenser chaque tier d'un Extrait de Nitain (évènement ponctuel)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4d/DENitainExtract.png/revision/latest?cb=20151126064952&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Extrait_de_Nitain",
+        "apiname": "Nitain Extract"
+    },
+    "ferrite": {
+        "nom": "Ferrite",
+        "description": "S'obtient sur Mercure, Terre, Neptune et le Néant",
+        "imgurl": "https://vignette1.wikia.nocookie.net/warframe/images/0/0d/Ferrite.png/revision/latest?cb=20130426082806",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ferrite",
+        "apiname": "Ferrite"
+    },
+    "nano spores": {
+        "nom": "Nano Spores",
+        "description": "S'obtient sur Saturne, Neptune et sur Eris",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/eb/NanoSpores.png/revision/latest?cb=20130426082805",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nano_Spores",
+        "apiname": "Nano Spores"
+    },
+    "cryotique": {
+        "nom": "Cryotique",
+        "description": "Disponible lors de missions d'Excavation",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/Cryotic.png/revision/latest?cb=20140917091734&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cryotique",
+        "apiname": "Cryotic"
+    },
+    "pack polymère": {
+        "nom": "Pack Polymère",
+        "description": "S'obtient sur Mercure, Vénus et Uranus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/45/Pack_Polym%C3%A8re.png/revision/latest?cb=20130827155418&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Pack_Polym%C3%A8re",
+        "apiname": "Polymer Bundle"
+    },
+    "plaque d'alliage": {
+        "nom": "Plaque d'Alliage",
+        "description": "S'obtient sur Vénus, Jupiter, Sedna, Ceres et Pluton",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/e5/AlloyPlate.png/revision/latest?cb=20140820215434&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Plaque_d%27Alliage",
+        "apiname": "Alloy Plate"
+    },
+    "récupération": {
+        "nom": "Récupération",
+        "description": "S'obtient sur Mars, Jupiter et Sedna",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b8/R%C3%A9cup%C3%A9ration.png/revision/latest?cb=20130827154731&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/R%C3%A9cup%C3%A9ration",
+        "apiname": "Salvage"
+    },
+    "circuits": {
+        "nom": "Circuits",
+        "description": "S'obtient sur Venus et Cérès",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d3/Circuits.png/revision/latest?cb=20130828011528&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Circuits",
+        "apiname": "Circuits"
+    },
+    "rubedo": {
+        "nom": "Rubedo",
+        "description": "S'obtient sur Terre, Pluton, Europe, Phobos et sur Sedna",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b4/Rubedo.png/revision/latest?cb=20130828011624&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Rubedo",
+        "apiname": "Rubedo"
+    },
+    "plastides": {
+        "nom": "Plastides",
+        "description": "S'obtient sur Saturne, Uranus, Pluton, Phobos, et Eris",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f7/Plastids.png/revision/latest?cb=20130828013259&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Plastides",
+        "apiname": "Plastids"
+    },
+    "capteur neuronaux": {
+        "nom": "Capteur Neuronaux",
+        "description": "S'obtient sur Jupiter et Forterrese Kuva ou assassinat Alad V (Themisto, Jupiter)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ec/CapteursNeuronaux.png/revision/latest?cb=20130828015030&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Capteurs_Neuronaux",
+        "apiname": "Neural Sensors"
+    },
+    "cellule orokin": {
+        "nom": "Cellule Orokin",
+        "description": "S'obtient sur Saturne, Cérès, Epaves Orokin et en alert ou éliminer Le Général Sargas Ruk (Tethys, Saturne) et le Lieutenant Lech Kril (War, Mars ou Exta, Cérès -> Attention il est accompagné du Capitain Vor) offrent plus de chance d'en donner 1",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/73/OrokinCell.png/revision/latest?cb=20140820115806&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cellule_Orokin",
+        "apiname": "Orokin Cell"
+    },
+    "cristal d'argon": {
+        "nom": "Cristal d'Argon",
+        "description": "S'obtient sur Néant ou dans la mission d'Assassinat du Conseiller Vay Hek (Contrairement aux autres ressources, **les cristaux se désintègrent après une période de temps limitée**. Après cette période, ces ressources vont **disparaître** de l'inventaire de l'utilisateur et doivent être réacquises si nécessaire.)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/7d/ArgonCrystal.png/revision/latest?cb=20140607200623&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cristal_d%27Argon",
+        "apiname": "Argon Crystal"
+    },
+    "gallium": {
+        "nom": "Gallium",
+        "description": "S'obtient sur Mars et Uranus (aussi en mission d'excavation sur ces même planètes) ou en tuant les boss Lieutenant Lech Kril (War, Mars ou Exta, Cérès ->attention il est accompagné du Capitain Vor) ou Tyl Regor (Titania, Uranus)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5b/Gallium.png/revision/latest?cb=20130828014140&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Gallium",
+        "apiname": "Argon Crystal"
+    },
+    "module de contrôle": {
+        "nom": "Module de Contrôle",
+        "description": "S'obtient sur Neptune, Europe et dans le Néant ou en éliminant les Hyena (Psamathe, Neptune) et le Raptor (Naamah, Europe)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/39/ControlModule.png/revision/latest?cb=20130411132137&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Module_de_Contr%C3%B4le",
+        "apiname": "Control Module"
+    },
+    "morphics": {
+        "nom": "Morphics",
+        "description": "S'obtient sur Neptune, Europe, Mercure, Phobos, Mars et Pluton ou en éliminant le Capitaine Vor(Mercure, Tolstoj ou Exta, Cérès), Le Sergent(Illiad, Phobos) et Ambulas(Hades, Pluton)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/44/Morphics.png/revision/latest?cb=20130828010715&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Morphics",
+        "apiname": "Morphics"
+    },
+    "neurodes": {
+        "nom": "Neurodes",
+        "description": "S'obtient sur Terre, Eris, Lua ou en Epaves Orokin",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/32/Neurodes.png/revision/latest?cb=20130902124928&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Neurodes",
+        "apiname": "Neurodes"
+    },
+    "ampoule de détonite": {
+        "nom": "Ampoule de Détonite",
+        "description": "S'obtient sur Mercure, Saturne, Uranus, Terre, Sedna et sur Cérès",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f8/AmpuledeDetonite.png/revision/latest?cb=20130827013746&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ampoule_de_D%C3%A9tonite",
+        "apiname": "Detonite Ampule"
+    },
+    "echantillon de fieldron": {
+        "nom": "Echantillon de Fieldron",
+        "description": "S'obtient sur Venus, Mars, Jupiter, Europe, Neptune et sur Pluton",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/0b/Fieldron_Sample2.png/revision/latest?cb=20141009131307&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89chantillon_de_Fieldron",
+        "apiname": "Fieldron Sample"
+    },
+    "echantillon mutagène": {
+        "nom": "Echantillon Mutagène",
+        "description": "S'obtient sur Eris ou Epave Orokin",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a2/Mutagen_Sample2.png/revision/latest?cb=20130701160704&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89chantillon_Mutag%C3%A8ne",
+        "apiname": "Mutagen Sample"
+    }, 
+    "tellure": {
+        "nom": "Tellure",
+        "description": "Est un composant rare, qui peut être obtenu sur n'importe quelles unités ennemies Archwing et sur Ophelia Neptune",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/2b/Tellure.png/revision/latest?cb=20190403014638&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tellure",
+        "apiname": "Tellurium"
+    },
+    "oxium": {
+        "nom": "Oxium",
+        "description": "Est un composant inhabituel. Il peut être trouvé sur les Osprey Oxium, qui sont des unités volantes des Corpus, ainsi que sur les Kubrows sauvages. Ils en donnent entre 7 et 12. Les Ospreys Oxium ne donnent de l'Oxium que s'ils sont détruits (tués) avant de s'autodétruire en chargeant sur un joueur ou un mur",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/1b/Oxium.png/revision/latest?cb=20140210143101&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Oxium",
+        "apiname": "Oxium"
+    },
+    "hexenon": {
+        "nom": "Hexenon",
+        "description": "Est une ressource d'origine Corpus, un produit du processus d'extraction de gaz des raffineries de Jupiter. Il peut être acquis à partir d'Amalgame ou caches de butin sur Jupiter, ou d'une récompense potentielle via la Perturbation",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c7/Hexenon.png/revision/latest?cb=20190530221606&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Hexenon",
+        "apiname": "Hexenon"
+    },
+    "fragment d'injecteur d'antisérum": {
+        "nom": "Fragment d'Injecteur d'Antisérum",
+        "description": "Est un composant utilisé pour créer l'Injecteur d'Antisérum pour l'Épreuve Le Verdict de Jordas. Ils sont laissés par les ennemis pendant la deuxième partie de l'épreuve",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d1/Actuator.png/revision/latest?cb=20151126072203&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Fragment_d%27Injecteur_d%27Antis%C3%A9rum",
+        "apiname": "Antiserum Injector Fragment"
+    },
+    "coordonnées nav": {
+        "nom": "Coordonnées Nav",
+        "description": "Les Coordonnées Nav sont des Objets similaires aux Orbes d'Energie, en plus sombre et avec un effet de 'vide' à l'intérieur. Elles sont communément trouvées dans les conteneurs et les casiers, sur n'importe quelle carte, y compris dans les Tours Orokin; parfois, elles sont obtenues sur les Eximus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ee/CoorNav.png/revision/latest/scale-to-width-down/225?cb=20140806082748&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Coordonn%C3%A9es_Nav",
+        "apiname": "Nav Coordinates"
+    },
+    "coordonnées nav mutalistes": {
+        "nom": "Coordonnées Nav Mutalistes",
+        "description": "Les Coordonnées Nav sont des Objets similaires aux Orbes d'Energie, en plus sombre et avec un effet de 'vide' à l'intérieur. Elles sont communément trouvées dans les conteneurs et les casiers, sur n'importe quelle carte, y compris dans les Tours Orokin; parfois, elles sont obtenues sur les Eximus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/98/NavCoordMutaliste.png/revision/latest/scale-to-width-down/150?cb=20141219144226&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Coordonn%C3%A9es_Nav?file=NavCoordMutaliste.png",
+        "apiname": "Mutalist Alad V Nav Coordinates"
+    },
+    "endo": {
+        "nom": "Endo",
+        "description": "Il est généralement abandonné par les ennemis tués, ainsi qu'offert en récompense de connection ou dans une variété de types de missions .L' Endo peut également être acquis en dissolvant les Mods inutilisés dans le segment Mods de l'Orbiteur, en convertissant les Mods en quantités définies d'Endo. L'Arbitrage et Vodyanoi sur Sedna, sont des lieux parfait pour le farm d'endo, **le booster de mod** double l'endo.  Maroo peut également extraire de l'Endo des Sculptures Ayatan dans son bazar",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/bd/Endo.png/revision/latest/scale-to-width-down/220?cb=20160922195817&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Endo",
+        "apiname": "Endo"
+    },
+    "kuva": {
+        "nom": "Kuva",
+        "description": "Le Kuva est une ressource rare pouvant être extraite d'une Borne de Survie (dans les missions du meme nom) ou d'un Siphon de Kuva à l'aide de l'Opérateur. Les Siphons n'apparaissent en général que dans les missions de haut niveau Grineer, après avoir accompli la quête scénarisée : La Guerre Intérieure.Ces missions sont tributaires, pour leur emplacement, des déplacements de la Forteresse Kuva sur la Carte Stellaire et seront présentes pour un temps défini sur les planètes à portée de la Forteresse. Étrangement, un siphon à Kuva peut être trouvé sur des planètes Corpus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/1c/Kuva.png/revision/latest?cb=20161124201418&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Kuva",
+        "apiname": "Kuva"
+    },
+    "coeur de Sentient": {
+        "nom": "Coeur de Sentient",
+        "description": "Les Cœurs de Sentient sont des objets Sentient qui peuvent être échangés contre de la réputation avec Les Plumes, à Cetus. Les Cœurs de Sentient Intact sont droppés par les Vomvalystes d'Eidolon, tandis que les Teralystes d'Eidolon, les Gantulystes d'Eidolon et les Hydrolystes d'Eidolon, tous situés dans les Plaines d'Eidolon, laissent tomber des Cœurs de Sentient Exceptionnel, un pour chaque point vital détruit. Ils apparaissent comme des orbes blancs et bleus qui flottent au-dessus du sol, éclairés par une aura bleue pour les rendre plus visibles, et indiqués par une icône sur le HUD un peu comme les Étoiles Ayatan. Un Cœur de Sentient Parfait est droppé après avoir réussi à capturer (et non à vaincre) un Teralyst, un Gantulyst ou un Hydrolyst alors qu'il est attaché à un nombre suffisant de Leurres Eidolon. Les Éclats et le Cœur Parfait seront droppés par les Leurres lors de l'autodestruction, pas par l'Eidolon lui-même",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f8/QuillsRarePickup.png/revision/latest/scale-to-width-down/200?cb=20171017154729&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/C%C5%93ur_de_Sentient",
+        "apiname": "Sentient Core"
+    },
+    "essence vitus": {
+        "nom": "Essence Vitus",
+        "description": "L'Essence Vitus est une ressource spéciale reçu comme récompense après chaque rotation accomplie en mission d'Arbitrage(se débloque après avoir fait toute les mission du jeu)",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/Essence_Vitus.png/revision/latest?cb=20190308003657&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Essence_Vitus",
+        "apiname": "Vitus Essence"
+    },
+    "vestiges du néant": {
+        "nom": "Vestiges du Néant",
+        "description": "Les Vestiges du Néant sont une ressource qui peut être obtenue dans les missions de Fissures du Néant(Ils s'obtiennent uniquement quand les 10 réactifs nécessaires à l'ouverture d'une Relique ont été récupérés durant la mission et/ou la rotation.). Ils sont utilisés pour raffiner les Reliques du Néant ou pour créer des Clés de Dragon",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9c/LuminousIconLarge.png/revision/latest/scale-to-width-down/250?cb=20160717170505&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Vestiges_du_N%C3%A9ant",
+        "apiname": "Void Traces"
+    },
+    "feuillegivre": {
+        "nom": "Feuillegivre",
+        "description": "Est une plante scannable sur les Avant-Poste Corpus de Vénus, Pluton et Neptune. Elles se situent sur le bord de falaises glacées de KILIKEN sur Vénus et plus précisément sur une pièce en extérieur qu'un gouffre scinde en deux; on peut y récolter une petite vingtaine de ces plantes",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/23/Feuillegivre.png/revision/latest/scale-to-width-down/51?cb=20190417125531&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Feuillegivre",
+        "apiname": "Frostleaf"
+    },
+    "mousse vestale": {
+        "nom": "Mousse Vestale",
+        "description": "Est une plante scannable sur Mercure et les astéroïdes, environnements propres aux Grineers. Cependant elle ne se trouve que sur la roche; vous ne pouvez pas espérer en trouver dans une pièce couverte de plaques de métal, de plus qu'il n'y a, au maximum, que 2 Mousses Vestales par pièces",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/7d/Mousse_Vestale.png/revision/latest?cb=20181217023500&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Mousse_Vestale",
+        "apiname": "Vestan Moss"
+    },
+    "dragonlily de jour": {
+        "nom": "Dragonlily de Jour",
+        "description": "Sont des objets scannables ajoutés lors de La Crise Cicéron . Ils sont trouvables sur Terre, à la surface de la planète durant le jour. Après un scan, on en obtiendra un\n:warning:**Le cycle entre la journée et la nuit se font toutes les 4 heures**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8f/Dragonlily_de_Jour.png/revision/latest?cb=20190417131839&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Dragonlily_de_Jour",
+        "apiname": "Sunlight Dragonlily"
+    },
+    "jdeleaf de jour": {
+        "nom": "Jadeleaf de Jour",
+        "description": "Sont des Objets que l'on peut scanner et qui ont été introduits durant la mise à jour la Crise Cicéron. On les trouve sur la Terre, à la surface de la planète durant les mission de jour\n:warning:**Le cycle entre la journée et la nuit se font toutes les 4 heures**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4e/Jadeleaf_de_Jour.png/revision/latest?cb=20190417125805&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jadeleaf_de_Jour",
+        "apiname": "Sunlight Jadeleaf"
+    },
+    "threshcone de jour": {
+        "nom": "Threshcone de Jour",
+        "description": "Est une plante commune et à scanner pour la quête Le Bosquet d'Argent.Ils sont trouvables sur Terre, dans plusieurs surfaces, tant qu'il y a de la terre, pendant la journée\n:warning:**Le cycle entre la journée et la nuit se font toutes les 4 heures**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4a/Threshcone_de_Jour.png/revision/latest/scale-to-width-down/350?cb=20190417131115&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Threshcone_de_Jour",
+        "apiname": "Sunlight Threshcone"
+    },
+    "dragonlily de nuit": {
+        "nom": "Dragonlily de Nuit",
+        "description": "Sont des plantes à scanner pour la quête Le Bosquet d'Argent. Ils sont trouvables sur Terre, à la surface de la planète durant la nuit uniquement\n:warning:**Le cycle entre la journée et la nuit se font toutes les 4 heures**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ec/Dragonlily_de_Nuit.png/revision/latest/scale-to-width-down/350?cb=20190417130944&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Dragonlily_de_Nuit",
+        "apiname": "Moonlight Dragonlily"
+    },
+    "jadeleaf de nuit": {
+        "nom": "Jadeleaf de Nuit",
+        "description": "Sont des objets scannables. Ils sont trouvables sur Terre, à la surface de la planète durant la nuit\n:warning:**Le cycle entre la journée et la nuit se font toutes les 4 heures**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9e/JadeleafdeNuit.png/revision/latest/scale-to-width-down/350?cb=20190417130449&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jadeleaf_de_Nuit",
+        "apiname": "Moonlight Jadeleaf"
+    },
+    "threshcone de nuit": {
+        "nom": "Threshcone de Nuit",
+        "description": "Sont des objets scannables. Ils sont trouvables sur Terre, à la surface de la planète durant la nuit\n:warning:**Le cycle entre la journée et la nuit se font toutes les 4 heures**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a5/Threshcone_de_Nuit.png/revision/latest?cb=20190417132104&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Threshcone_de_Nuit",
+        "apiname": "Moonlight Threshcone"
+    },
+    "griffe de ruk": {
+        "nom": "Griffe de Ruk",
+        "description": "Est une plante scannable sur les mission de Mars. Cette plante est particulièrement commune et se trouve un peu partout, dans les recoins comme en plein milieu d'une pièce",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4a/Griffe_de_Ruk.png/revision/latest/scale-to-width-down/350?cb=20190417130320&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Griffe_de_Ruk",
+        "apiname": "Ruk's Claw"
+    },
+    "sarracénie crépusculaire": {
+        "nom": "Sarracénie Crépusculaire",
+        "description": "Sont des objets scannables. Elles sont trouvables dans les Chantiers Navaux Grineer sur Cérès et Sedna, à la surface de la planète dans les eaux polluées",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/ba/Sarrac%C3%A9nie_Cr%C3%A9pusculaire.png/revision/latest/scale-to-width-down/350?cb=20190417130752&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Sarrac%C3%A9nie_Cr%C3%A9pusculaire",
+        "apiname": "Dusklight Sarracenia"
+    },
+    "urne lunaire": {
+        "nom": "Urne Lunaire",
+        "description": "Est une plante qui peut être scannée sur les missions de Lua, nécessaire pour la quête Le Bosquet d'Argent. Elles se trouvent dans des zones délabrées, avec de la terre",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8f/UrneLunaire.png/revision/latest/scale-to-width-down/350?cb=20190417130109&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Urne_Lunaire",
+        "apiname": "Lunar Pitcher"
+    },
+    "spore gorgaricus": {
+        "nom": "Spore Gorgaricus",
+        "description": "Est une ressource que l'on peut trouver dans toute la Vallée Orbis, et il pousse sous les chapeaux des champignons géants (pas au sol, mais vraiment en hauteur, comme une pomme dans un arbre). Le Spore Gorgaricus peut être obtenu également en récompense par les Mises à prix",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/e6/SporeGorgaricus.png/revision/latest?cb=20181124214010&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Spore_Gorgaricus",
+        "apiname": "Gorgaricus Spore"
+    },
+    "spore mytocardia": {
+        "nom": "Spore Mytocardia",
+        "description": "Est une ressource que l'on peut trouver dans toute la Vallée Orbis, et il pousse sous les champignons géants. On peut également les obtenir en récompenses par les Mises à prix",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/63/SporeMytocardia.png/revision/latest?cb=20181124220635&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Spore_Mytocardia",
+        "apiname": "Mytocardia Spore"
+    },
+    "nodule tepa": {
+        "nom": "Nodule Tepa",
+        "description": "Est une ressource que l'on peut trouver dans toute la Vallée Orbis, et pousse principalement dans les grottes. On peut l'obtenir également en récompenses avec les Mises à prix",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c7/NoduleTepa.png/revision/latest?cb=20181125004259&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nodule_Tepa",
+        "apiname": "Tepa Nodule"
+    },
+    "boue thermique": {
+        "nom": "Boue Thermique",
+        "description": "Est une ressource que l'on peut trouver dans les containers spéciaux qui se situent dans les campements Corpus à travers la Vallée Orbis. Il est possible d'en gagner dans les Mises à prix",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/be/BoueThermique.png/revision/latest?cb=20181124202719&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Boue_Thermique",
+        "apiname": "Thermal Sludge"
+    },
+    "obligation": {
+        "nom": "Obligation",
+        "description": "Obligations de Dettes Etudiants, de Couvertures, Médicales, d'avances de fond et Familliales sont des ressources inhabituelles que l'on peut obtenir en récompenses sur les missions de Fortuna que propose Eudico. Vous pouvez également en obtenir auprès de Ticker contre des Crédits et quelques ressources",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/Obligations_de_dettes_M%C3%A9dicales.png/revision/latest?cb=20181221151423&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Obligations_de_dettes",
+        "apiname": "Bonds"
+    },
+    "obligations de dettes étudiantes": {
+        "nom": "Obligations de dettes Étudiantes",
+        "description": "Est une ressource *inhabituelle* que l'on peut obtenir en récompenses sur les missions de **Fortuna** que propose *Eudico*.\nVous pouvez également en obtenir auprès de *Ticker* contre des Crédits et quelques ressources",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/9/9c/Obligations_de_dettes_%C3%89tudiantes.png/revision/latest/scale-to-width-down/224?cb=20181221181100&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Obligations_de_dettes_%C3%89tudiantes",
+        "apiname": "Training Debt-Bond"
+    },
+    "obligations de dettes médicales": {
+        "nom": "Obligations de dettes Médicales",
+        "description": "Est une ressource *inhabituelle* que l'on peut obtenir en récompenses sur les missions de **Fortuna** que propose *Eudico*.\nVous pouvez également en obtenir auprès de *Ticker* contre des Crédits et quelques ressources",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/f/f2/Obligations_de_dettes_de_Couverture.png/revision/latest/scale-to-width-down/224?cb=20181221180836&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Obligations_de_dettes_M%C3%A9dicales",
+        "apiname": "Medical Debt-Bond"
+    },
+    "obligations de dettes de couverture": {
+        "nom": "Obligations de dettes de Couverture",
+        "description": "Est une ressource *inhabituelle* que l'on peut obtenir en récompenses sur les missions de **Fortuna** que propose *Eudico*.\nVous pouvez également en obtenir auprès de *Ticker* contre des Crédits et quelques ressources",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/f/f2/Obligations_de_dettes_de_Couverture.png/revision/latest/scale-to-width-down/224?cb=20181221180836&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Obligations_de_dettes_de_Couverture#Vall.C3.A9e_Orbis",
+        "apiname": "Shelter Debt-Bond"
+    },
+    "obligations de dettes d'avance de fond": {
+        "nom": "Obligations de dettes d'avance de fond",
+        "description": "Est une ressource *inhabituelle* que l'on peut obtenir en récompenses sur les missions de **Fortuna** que propose *Eudico*.\nVous pouvez également en obtenir auprès de *Ticker* contre des Crédits et quelques ressources",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/3/36/Obligations_de_dettes_d%27avance_de_fonds.png/revision/latest/scale-to-width-down/224?cb=20181221181156&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Obligations_de_dettes_d%27avance_de_fonds",
+        "apiname": "Advances Debt-Bond"
+    },
+    "obligations de dettes familiale": {
+        "nom": "Obligations de dettes Familiale",
+        "description": "Est une ressource *inhabituelle* que l'on peut obtenir en récompenses sur les missions de **Fortuna** que propose *Eudico*.\nVous pouvez également en obtenir auprès de *Ticker* contre des Crédits et quelques ressources",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/7/7a/Obligations_de_dettes_Familiales.png/revision/latest/scale-to-width-down/224?cb=20181221181249&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Obligations_de_dettes_Familiales",
+        "apiname": "Familial Debt-Bond"
+    },
+    "systèmes gyromag": {
+        "nom": "Systèmes Gyromag",
+        "description": "Sont des composants de fabrication qui peuvent être obtenu en récompense sur les Mises à Prix - Preneur de Profit de Vox Solaris. Vous pouvez également les acheter auprès de **Little Duck** pour 2,500 à condition d'avoir au moins le rang Main",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8d/Syst%C3%A8mes_Gyromag.png/revision/latest?cb=20181220013018&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Syst%C3%A8mes_Gyromag",
+        "apiname": "Gyromag Systems"
+    },
+    "systèmes atmo": {
+        "nom": "Systèmes Atmo",
+        "description": "Sont des composants de fabrication qui peuvent être obtenus en récompense sur les Mises à Prix - Preneur de Profit de Vox Solaris. Vous pouvez également les acheter auprès de **Little Duck** pour 2,500 à condition d'avoir au moins le rang Main",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/7f/Syst%C3%A8mes_Atmo.png/revision/latest?cb=20181220013247&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Syst%C3%A8mes_Atmo",
+        "apiname": "Atmo Systems"
+    },
+    "systèmes répulseurs": {
+        "nom": "Systèmes Répulseurs",
+        "description": "Sont des composants de fabrication qui peuvent être obtenus en récompense sur les Mises à Prix - Preneur de Profit de Vox Solaris. Vous pouvez également les acheter auprès de Little Duck pour 5,000 à condition d'avoir au moins le rang Main",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d2/Syst%C3%A8mes_R%C3%A9pulseurs.png/revision/latest?cb=20181219233532&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Syst%C3%A8mes_R%C3%A9pulseurs",
+        "apiname": "Repeller Systems"
+    },
+    "tore calda": {
+        "nom": "Tore Calda",
+        "description": "Le Tore Calda est une ressource rare que l'on peut obtenir sur les ennemis ou dans les grottes près des Laboratoires d'Enrichissement dans la Vallée Orbis\n> __Vous pourrez retrouver ci-dessous la localisation du lieu de loot :__",
+        "image": "https://i.redd.it/55h7r2phu3y11.png",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/32/ToreCalda.png/revision/latest?cb=20181124161011&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tore_Calda",
+        "apiname": "Calda Toroid"
+    },
+    "tore sola": {
+        "nom": "Tore Sola",
+        "description": "Le Tore Sola est une ressource rare que l'on peut obtenir sur les ennemis ou dans les grottes près du Temple du Profit dans la Vallée Orbis\n> __Vous pourrez retrouver ci-dessous la localisation du lieu de loot :__",
+        "image": "https://i.redd.it/55h7r2phu3y11.png",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/6c/ToreSola.png/revision/latest?cb=20181124162244&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tore_Sola",
+        "apiname": "Sola Toroid"
+    },
+    "tore vega": {
+        "nom": "Tore Vega",
+        "description": "Le Tore Vega est une ressource rare que l'on peut obtenir sur les ennemis ou dans les grottes près du Port Spatial dans la Vallée Orbis\n> __Vous pourrez retrouver ci-dessous la localisation du lieu de loot :__",
+        "image": "https://i.redd.it/55h7r2phu3y11.png",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/3f/ToreVega.png/revision/latest?cb=20181124154445&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tore_Vega",
+        "apiname": "Vega Toroid"
+    },
+    "tore crisma": {
+        "nom": "Tore Crisma",
+        "description": "Le Tore Crisma est une ressource rare que l'on obtient après avoir vaincu le Preneur de Profit sur la Phase 4 du Briefing dans la Vallée Orbis",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/48/ToreCrisma.png/revision/latest?cb=20181220022407&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tore_Crisma",
+        "apiname": "Crisma Toroid"
+    },
+    "tore lazulite": {
+        "nom": "Tore Lazulite",
+        "description": "Le Tore Lazulite est une ressource rare que l'on obtient sur l'Orbis Exploiteur sur le Dock 12 pendant l'Opération : Dettes Ensevelies",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/6f/Tore_Lazulite.png/revision/latest?cb=20190319005208&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tore_Lazulite",
+        "apiname": "Lazulite Toroid"
+    },
+    "éclat d'eidolon": {
+        "nom": "Eclat d'Eidolon",
+        "description": "L'Eclat d'Eidolon, l'Eclat d'Eidolon Brillant et l'Eclat d'Eidolon Rayonnant, sont obtenus en tuant des Eidolons.\nLes Éclats d'Eidolon Brillant et Éclat d'Eidolon Rayonnant peuvent être utilisés pour générer des points de focus dans le vaisseau afin d'augmenter les passifs et actifs de l'opérateur. Les Éclats d'Eidolon servent principalement à construire les arcanes dans les offres des Plumes.",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/d/dd/SentientShardCommon.png/revision/latest/scale-to-width-down/350?cb=20171107165148&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89clat_d%27Eidolon",
+        "apiname": "Eidolon Shard"
+    },
+    "éclat d'eidolon brillant": {
+        "nom": "Éclat d'Eidolon Brillant",
+        "description": "Est un loot obtenu à la suite d'une chasse au Teralyst réussie, uniquement si le Teralyst est capturé grâce à **2 leurres** eidolon minimum.\nLes Éclats d'Eidolon Brillant et Éclat d'Eidolon Rayonnant peuvent être utilisés pour générer des points de focus dans le vaisseau afin d'augmenter les passifs et actifs de l'opérateur. Les Éclats d'Eidolon servent principalement à construire les arcanes dans les offres des Plumes.",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/7/7b/SentientShardBrilliant.png/revision/latest/scale-to-width-down/350?cb=20171107170147&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89clat_d%27Eidolon_Brillant",
+        "apiname": "Brilliant Eidolon Shard"
+    },
+    "éclat d'eidolon rayonnant": {
+        "nom": "Éclat d'Eidolon Rayonnant",
+        "description": "**Eidolon Gantulyst** laissera tomber un éclat radiant tandis que **Eidolon Hydrolyst** laissera tomber deux éclats rayonnants s'ils sont capturés avec des leurres Eidolon chargés à la dernière étape du combat.\nLes Éclats d'Eidolon Brillant et Éclat d'Eidolon Rayonnant peuvent être utilisés pour générer des points de focus dans le vaisseau afin d'augmenter les passifs et actifs de l'opérateur. Les Éclats d'Eidolon servent principalement à construire les arcanes dans les offres des Plumes.",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/b/bf/RadiantEidolonShard.png/revision/latest/scale-to-width-down/268?cb=20180214162214&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89clat_d%27Eidolon_Rayonnant",
+        "apiname": "Radiant Eidolon Shard"
+    },
+    "grokdrul": {
+        "nom": "Grokdrul",
+        "description": "Est une ressource que l'on peut trouver dans les camps Grineer dans les Plaines d'Eidolon. Ils sont stockés dans des barils. On peut également obtenir du Grokdrul avec les Mises à prix et les Incursions",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/bd/Grokdrul.png/revision/latest?cb=20181202221528&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Grokdrul",
+        "apiname": "Grokdrul"
+    },
+    "iradite": {
+        "nom": "Iradite",
+        "description": "Est une ressource qui peut être trouvée sur les Plaines d'Eidolon. L'Iradite est également en récompense dans les Mises à Prix et dans des Incursions",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/e1/Iradite.png/revision/latest?cb=20171106202712&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Iradite",
+        "apiname": "Iradite"
+    },
+    "maprico": {
+        "nom": "Maprico",
+        "description": "Est une ressource que l'on peut trouver dans les Plaines d'Eidolon, et elle pousse dans des petits arbustes.Le Maprico peut être également obtenu en récompense dans les Mises à prix et les Incursions",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/70/Maprico.png/revision/latest?cb=20181227155352&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Maprico",
+        "apiname": "Maprico"
+    },
+    "tégument de charbon": {
+        "nom": "Tégument de Charbon",
+        "description": "Sont des ressources que l'on peut trouver dans les régions hautes des Plaines d'Eidolon, situées dans les régions montagneuses du' Mont Nanget du Ostwan Range.Ils poussent sur des buissons de type champignon, dont chacun laisse tomber 5 Tégument de Chardon une fois écrasés. Les Tégument de Chardon sont également obtenu en récompense par les Mise à Prix et les Incursions",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4e/T%C3%A9gument_de_Charbon.png/revision/latest?cb=20190105150308&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/T%C3%A9gument_de_Chardon",
+        "apiname": "Nistlepod"
+    },
+    "aile de condroc": {
+        "nom": "Aile de Condroc",
+        "description": "Est un composant que l'on trouve sur les Condrocs dans les Plaines d'Eidolon. Ils en lâchent entre 1 et 4 à leur mort",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/Aile_de_Condroc.png/revision/latest?cb=20181224015728&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Aile_de_Condroc",
+        "apiname": "Condroc Wing"
+    },
+    "griffe dorsal de kuaka": {
+        "nom": "Griffe Dorsal de Kuaka",
+        "description": "Peut être obtenu sur les Kuakas dans les Plaines d'Eidolon",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/56/Griffe_Dorsale_de_Kuaka.png/revision/latest?cb=20181225104043&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Griffe_Dorsale_de_Kuaka",
+        "apiname": "Kuaka Spinal Claw"
+    },
+    "feu follet de cetus": {
+        "nom": "Feu Follet de Cetus",
+        "description": "Sont des êtres étranges trouvés au bord des coins d'eaux des Plaines d'Eidolon dans n'importe quelle période. C'est un croisement entre une ressource récupérable et un PNJ non hostile. Il fera parfois quelques mouvements sans pour autant attaquer, si le joueur passe à travers lui, il récupère le Feu Follet de Cetus\n> Voici le chemin pour farm les feu follet :",
+        "image": "https://i.imgur.com/2NBa9kD.jpg",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/1a/Feu_Follet_de_Cetus.png/revision/latest?cb=20171018103822&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Feu_Follet_de_Cetus",
+        "apiname": "Cetus Wisp"
+    },
+    "souffle d'eidolon": {
+        "nom": "Souffle d'Eidolon",
+        "description": "Est un composant de fabrication. Actuellement, il ne peut être obtenu que via le système de Mise à Prix",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/23/Souffle_d%27Eidolon.png/revision/latest?cb=20190107210242&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Souffle_d%27Eidolon",
+        "apiname": "Breath Of The Eidolon"
+    },
+    "couronne granum": {
+        "nom": "Couronne Granum",
+        "description": "Sont une forme de monnaie prisée par le Corpus, dit être des marques d'estime de leur fondateur Parvos Granum. Généralement transporté par les Trésoriers à bord des Vaisseaux Corpus, le Tenno peut vaincre ces **Trésoriers** pour récupérer les couronnes pour leur propre usage",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/aa/Couronne_Granum.png/revision/latest/scale-to-width-down/170?cb=20200612164807&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Couronne_Granum",
+        "apiname": "Granum Crown"
+    },
+    "couronne granum exemplaire": {
+        "nom": "Couronne Granum Exemplaire",
+        "description": "Sont une forme de monnaie prisée par le Corpus, dit être des marques d'estime de leur fondateur Parvos Granum. Généralement transporté par les Trésoriers à bord des Vaisseaux Corpus, le Tenno peut vaincre ces **Trésoriers** pour récupérer les couronnes pour leur propre usage",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/2c/Couronne_Granum_Exemplaire.png/revision/latest/scale-to-width-down/170?cb=20200612164821&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Couronne_Granum",
+        "apiname": "Exemplar Granum Crown"
+    },
+    "couronne granum zénith": {
+        "nom": "Couronne Granum Zénith",
+        "description": "Sont une forme de monnaie prisée par le Corpus, dit être des marques d'estime de leur fondateur Parvos Granum. Généralement transporté par les Trésoriers à bord des Vaisseaux Corpus, le Tenno peut vaincre ces **Trésoriers** pour récupérer les couronnes pour leur propre usage",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/Couronne_Granum_Z%C3%A9nith.png/revision/latest/scale-to-width-down/170?cb=20200612164832&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Couronne_Granum",
+        "apiname": "Zenith Granum Crown"
+    },
+    "carbures": {
+        "nom": "Carbures",
+        "description": "Sont des *composants inhabituels* qui peuvent se trouver sur **Cérès**, dans n'importe quel nœud **Chantier Naval Grineer** Ils s'obtiennent sur les *unités Eximus*. Ils sont utilisés pour **la construction du Railjack**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/26/Carbures.png/revision/latest/scale-to-width-down/350?cb=20191124180911&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Carbures",
+        "apiname": "Carbides"
+    },
+    "diodes cubiques": {
+        "nom": "Diodes Cubiques",
+        "description": "Sont des *composants inhabituels* qui peuvent se trouver sur **Europe**, dans n'importe quel nœud **Planète de Glace Corpus**. Ils s'obtiennent sur les *unités Eximus*. Ils sont utilisés pour **la construction du Railjack**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/3d/Diodes_Cubiques.png/revision/latest/scale-to-width-down/350?cb=20191124180930&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Diodes_Cubiques",
+        "apiname": "Cubic Diodes"
+    },
+    "fibres somatiques": {
+        "nom": "Fibres Somatiques",
+        "description": "Est une ressource introduite à la `Update 25.7`. Elle s'obtiennent sur les *ennemis Démolisseurs* en **mission de Perturbation** sur le **nœud Apollo, Lua**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/Fibres_Somatiques.png/revision/latest/scale-to-width-down/350?cb=20190901232022&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Fibres_Somatiques",
+        "apiname": "Somatic Fibers"
+    },
+    "copernics": {
+        "nom": "Copernics",
+        "description": "Sont des *ressources inhabituelles* qui peuvent se trouver dans **la Vallée Orbis en Minant**. Ils peuvent également être trouvés dans les **missions Empyrée** avec d'autres matériaux de la `Update 26.1`. Ils sont utilisés pour **construire le Railjack**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/Copernics.png/revision/latest/scale-to-width-down/350?cb=20191124213024&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Copernics",
+        "apiname": "Copernics"
+    },
+    "pustrules": {
+        "nom": "Pustrules",
+        "description": "Sont des Ressources *inhabituelles* qui peuvent se trouver dans les *Plaines d'Eidolon* en **Minant les veines de minerais rouges**. Ils peuvent également être trouvés dans **les missions Empyrée** en tant que butin en détruisant **les vaisseaux Grineer**, en tuant des *unités terrestres Grineer*, en ouvrant des **Conteneurs de Stockage** trouvés sur les équipages et sur *les Unités Eximus dans l'environnement Vaisseau Infesté* (majoritairement sur **Eris**). Ils sont utilisés dans **la construction du Railjack** et de ses composants, ainsi que des systèmes du Railjack. Ce sont des composants pour tous **les schémas des MK I** dans la Cale Sèche du Dojo, c'est aussi un composant fréquent pour *réparer* les systèmes et réapprovisionner les armes via l'utilisation de la **Forge du Railjack**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f4/Pustrules.png/revision/latest/scale-to-width-down/350?cb=20191124213044&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Pustrules",
+        "apiname": "Pustrels"
+    },
+    "titane": {
+        "nom": "Titane",
+        "description": "Est une ressource *commune* que l'on trouve dans n'importe quelle **mission d'Empyrée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/81/Titane.png/revision/latest/scale-to-width-down/350?cb=20191215145340&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Titane",
+        "apiname": "Titanium"
+    },
+    "astérite": {
+        "nom": "Astérite",
+        "description": "Est une ressource *rare* qui peut être trouvée dans les **missions Empyrée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/13/Ast%C3%A9rite.png/revision/latest/scale-to-width-down/350?cb=20191215144815&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ast%C3%A9rite",
+        "apiname": "Asterite"
+    },
+    "barres de gallos": {
+        "nom": "Barres de Gallos",
+        "description": "Sont une ressource *inhabituelle* que l'on trouve dans n'importe quelle **mission d'Empyrée** dans **le Proxima de Saturne** et **Proxima du Voile**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/59/Barres_de_Gallos.png/revision/latest/scale-to-width-down/350?cb=20191216125952&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Barres_de_Gallos",
+        "apiname": "Gallos Rods"
+    },
+    "isos": {
+        "nom": "Isos",
+        "description": "Est une ressource *commune* que l'on trouve dans n'importe quelle **mission d'Empyrée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/Isos.png/revision/latest/scale-to-width-down/350?cb=20191215145449&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Isos",
+        "apiname": "Isos"
+    },
+    "kesslers": {
+        "nom": "Kesslers",
+        "description": "Sont une ressource *rare* que l'on peut trouver dans n'importe quelle **mission Empyrée**. Ils sont utilisés dans les recherches et **l'amélioration du Railjack**. Ils semblent dropper le plus souvent sur le **Proxima de Saturne**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/22/Kesslers.png/revision/latest/scale-to-width-down/350?cb=20191215150002&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Kesslers",
+        "apiname": "Kesslers"
+    },
+    "bracoïde": {
+        "nom": "Bracoïde",
+        "description": "Est une ressource *rare* que l'on trouve dans **l'environnement Vaisseau Infesté**. Ils peuvent être trouvé dans n'importe quelle **mission d'Empyrée** comme *drop possible*",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b1/Braco%C3%AFde.png/revision/latest/scale-to-width-down/350?cb=20191215145327&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Braco%C3%AFde",
+        "apiname": "Bracoid"
+    },
+    "condensateurs aucrux": {
+        "nom": "Condensateurs Aucrux",
+        "description": "Sont une ressource *rare* que l'on trouve dans n'importe quelle **mission d'Empyrée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c9/Condensateurs_Aucrux.png/revision/latest/scale-to-width-down/350?cb=20191215145430&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Condensateurs_Aucrux",
+        "apiname": "Aucrux Capacitors"
+    },
+    "fresnels": {
+        "nom": "Fresnels",
+        "description": "Est une ressource *rare* que l'on trouve n'importe quelle **mission d'Empyrée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c2/Fresnels.png/revision/latest/scale-to-width-down/350?cb=20191215145947&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Fresnels",
+        "apiname": "Fresnels"
+    },
+    "komms": {
+        "nom": "Komms",
+        "description": "Est une ressource *commune* que l'on trouve dans n'importe quelle mission **d'Empyrée sur le Proxima de Saturne** et **le Proxima du Voile**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a4/Komms.png/revision/latest/scale-to-width-down/350?cb=20191215150013&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Komms",
+        "apiname": "Komms"
+    },
+    "larmes du néant": {
+        "nom": "Larmes du Néant",
+        "description": "Sont une ressource *rare* que l'on trouve dans n'importe quelle **mission d'Empyrée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/49/Larmes_du_N%C3%A9ant.png/revision/latest/scale-to-width-down/350?cb=20191215150026&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Larmes_du_N%C3%A9ant",
+        "apiname": "Nullstones"
+    },
+    "brisure riven": {
+        "nom": "Brisure Riven",
+        "description": "Sont des objets *communs* obtenus en récompense sur **les Reliques Requiem**. **10 Brisures Riven** peuvent être échangées auprès de *Palladino* à **Iron Wake** pour obtenir un **Mod Riven aléatoire**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/e3/Brisure_Riven.png/revision/latest/scale-to-width-down/350?cb=20191103184842&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Brisure_Riven",
+        "apiname": "Riven Sliver"
+    },
+    "dirac": {
+        "nom": "Dirac",
+        "description": "Peut être trouvé tout au long des **missions d'Empyrée** sous forme de drops environnementales *rares*, de drops auprès des *vaisseaux ennemis vaincus* ou de récompense **bonus de fin de mission**.\nLe Dirac est une ressource introduite dans la `Update 27.0` qui est utilisée pour **améliorer l'Avionique du Railjack**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/95/Dirac.png/revision/latest/scale-to-width-down/350?cb=20200224123759&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Dirac",
+        "apiname": "Dirac"
+    },
+    "éclat d'anomalie": {
+        "nom": "Éclat d'Anomalie",
+        "description": "Est un objet qui peut être obtenu en terminant **l'Anomalie Sentient dans le Proxima du Voile**. Les Anomalies sont complétées en tuant **20 ennemis Sentient à bord de ladite Anomalie**, et à chaque fois que l'on en termine **une**, on obtient **un Éclat**. Ceux-ci peuvent être échangés à *Little Duck* pour obtenir *les Scènes Anomalie Sentient* et *l'Ephemera Tenebrous*, respectivement contre **10** et **15 Éclats**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/52/%C3%89clat_d%27Anomalie.png/revision/latest?cb=20200126172010&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89clat_d%27Anomalie",
+        "apiname": "Anomaly Shard"
+    },
+    "cystolithe hématocyte": {
+        "nom": "Cystolithe Hématocyte",
+        "description": "Est une ressource lâchée par *l'Hémocyte* pendant l'Opération : **Fléau Céleste**, et est utilisée pour construire **les trophées de clan de cet événement**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/fd/Cystolith_H%C3%A9mocyte.png/revision/latest/scale-to-width-down/350?cb=20190810214228&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cystolithe_H%C3%A9matocyte",
+        "apiname": "Hemocyte Cystolith"
+    },
+    "cocons pherliac": {
+        "nom": "Cocons Pherliac",
+        "description": "Est un __Consommable__. Lorsqu'il est déployé, ce cocon agit comme un leurre : **les unités Infestés l'attaquent**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/cb/CoconsPherliac.png/revision/latest?cb=20150627224758&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cocons_Pherliac",
+        "apiname": "Pod de Pherliac"
+    },
+    "pustulite": {
+        "nom": "Pustulite",
+        "description": "Est une ressource que l'on trouve dans **le Puy de Cambion** sous la forme de grands gisements de ressources **bulbeuses suspendus au plafond et aux surplombs**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/e1/Pustulite.png/revision/latest?cb=20200825214808",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Pustulite",
+        "apiname": "Pustrels"
+    },
+    "teroglobe lumineux": {
+        "nom": "Teroglobe Lumineux",
+        "description": "Est une ressource que l'on trouve dans **le Puy de Cambion** sous la forme de **gisement avec des petits pics** ou dans des **petits coffres typé orokin**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/LucentTeroglobe.png/revision/latest/scale-to-width-down/350?cb=20200825213355",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Teroglobe_Lumineux",
+        "apiname": "Lucent Teroglobe"
+    },
+    "ganglion": {
+        "nom": "Ganglion",
+        "description": "Est une ressource que l'on trouve dans **le Puy de Cambion** sous la forme de grands gisements de ressources **bulbeuses suspendus au plafond et aux surplombs**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4b/Ganglion.png/revision/latest/scale-to-width-down/350?cb=20200826135008&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ganglion",
+        "apiname": "Ganglion"
+    },
+    "éclat de sériglas": {
+        "nom": "Éclat de Sériglas",
+        "description": "Peuvent être achetés auprès de **Grand-Mère** dans le Necralisk pour **20 Jeton** de la Grand-Mère chacun",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ee/%C3%89clat_de_S%C3%A9riglas.png/revision/latest/scale-to-width-down/350?cb=20200826144852&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89clat_de_S%C3%A9riglas",
+        "apiname": "Seriglass Shard"
+    },
+    "scintillateur": {
+        "nom": "Scintillateur",
+        "description": "Est une ressource *rare* utilisée comme composant pour les systèmes de *Xaku* et les *Quassus*. Il se trouve généralement en quantité de **1** et peut être obtenu à partir des **Mise à Prix de Tier 1 et Tier 2 de Mère** dans Necralisk, sur *Deimos*. Il peut également être obtenu en les ramassant dans **les Salles d'Isolement**, ou sous forme de **drop** auprès des **Necramechs** qui apparaissent dans **les Salles d'Isolement**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/03/Scintillateur.png/revision/latest/scale-to-width-down/350?cb=20200826144842&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Scintillateur",
+        "apiname": "Scintillant"
+    },
+    "résidu de fass": {
+        "nom": "Résidu de Fass",
+        "description": "Est un appât de pêche pour les poissons de la dérive Cambion , utilisé pour attirer **Glutinox** , **Ostimyr** et **Vitreospina** .\n\nAprès que *Vome* ait tué Fass  pour commencer **le cycle de Vome sur la dérive Cambion** , de petites **zones d'énergie orange** apparaîtront à divers endroits. Entrer dans une zone couvrira les bords de l'écran de boue orange. Plusieurs dépôts de résidus de Fass apparaîtront à l'intérieur de chaque zone et peuvent être détruits pour acquérir **1 résidu de Fass** chacun.\n> Notez que ces dépôts ne seront pas marqués sur la carte, mais vous pouvez viser avec un scanner de codex ou un scanner de synthèse pour les localiser",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/1/14/R%C3%A9sidu_de_Fass.png/revision/latest/scale-to-width-down/350?cb=20200918163027&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/R%C3%A9sidu_de_Fass",
+        "apiname": "Fass Residue"
+    },
+    "résidu de vome": {
+        "nom": "Résidu de Vome",
+        "description": "Est un appât de pêche pour les poissons du Cambion Drift , utilisé pour attirer le **Chondricord** et **le Duroid**.\n\nAprès que Fass ait tué *Vome*  pour commencer **le cycle de Fass sur la dérive Cambion** , de petites zones d'énergie bleue apparaîtront à divers endroits. Entrer dans une zone couvrira les bords de l'écran de boue bleue et accordera un % temporaire ? bonus de vitesse de déplacement pour tous les alliés de la zone. Plusieurs dépôts de Vome Residue apparaîtront dans chaque zone et peuvent être détruits pour acquérir **1 Vome Residue chacun**.\n> Notez que ces dépôts ne seront pas marqués sur la carte, mais vous pouvez viser avec un scanner de codex ouun scanner de synthèse pour les localiser",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/9/96/R%C3%A9sidu_de_Vome.png/revision/latest/scale-to-width-down/350?cb=20200918163028&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/R%C3%A9sidu_de_Vome",
+        "apiname": "Vome Residue"
+    },
+    "jeton d'otak": {
+        "nom": "Jeton d'Otak",
+        "description": "Est un des **Jetons de la Famille**.\n__Il existe 2 façon d'obtenir des Jetons d'Otak :__\n\n**1.** Échanger des Minerais et des Gemmes du Puy de Cambion avec Otak\n**2.** Les trouver dans le Puy de Cambion.\n\nLes Jetons d'Otak, ainsi que d'autres Jetons de la Famille peuvent être échangés avec Grand-Mère contre **100** d'Influence Entrati. Ils peuvent également être échangés contre des Jeton de Grand-Mère",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/3f/Jeton_d%27Otak.png/revision/latest/scale-to-width-down/350?cb=20200831123312&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jeton_d%27Otak",
+        "apiname": "Otak Token"
+    },
+    "jeton de la fille": {
+        "nom": "Jeton de la Fille",
+        "description": "Est un des **Jetons de la Famille**.\n__Il existe 2 façon d'obtenir des Jetons de la Fille :__\n\n**1.** Échanger des Produits de Pêche avec la Fille\n**2.** Les trouver dans le Puy de Cambion.\n\nLes Jetons de la Fille, ainsi que d'autres Jetons de la Famille peuvent être échangés avec Grand-Mère contre **100** d'Influence Entrati. Ils peuvent également être échangés contre des Jeton de Grand-Mère",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a5/Jeton_de_la_Fille.png/revision/latest?cb=20200826145245&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jeton_de_la_Fille",
+        "apiname": "Daughter Token"
+    },
+    "jeton fils": {
+        "nom": "Jeton Fils",
+        "description": "Est un des **Jetons de la Famille**.\n__Il existe 2 façon d'obtenir des Jetons de la Fils :__\n\n**1.** Échanger des Jetons de la Faune avec le Fils\n**2.** Les trouver dans le Puy de Cambion.\n\nLes Jetons du Fils, ainsi que d'autres Jetons de la Famille peuvent être échangés avec Grand-Mère contre **500** d'Influence Entrati. Ils peuvent également être échangés contre des Jeton de Grand-Mère",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/7a/Jeton_du_Fils.png/revision/latest?cb=20200826145304&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jeton_du_Fils",
+        "apiname": "Son Token"
+    },
+    "jeton de la grand-mère": {
+        "nom": "Jeton de la Grand-Mère",
+        "description": "Est un des **Jetons de la Famille**.\n__Il existe 2 façon d'obtenir des Jeton de la Grand-Mère :__\n\n**1.** Échanger des Jetons de la Faune avec le Fils\n**2.** Les trouver dans le Puy de Cambion.\n\nLes Jetons de la Grand-Mère, ainsi que d'autres Jetons de la Famille peuvent être échangés avec Grand-Mère contre **1,500** d'Influence Entrati",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/83/Jeton_de_la_Grand-M%C3%A8re.png/revision/latest?cb=20200826145251&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jeton_de_la_Grand-M%C3%A8re",
+        "apiname": "Grandmother Token"
+    },
+    "jeton de la mère": {
+        "nom": "Jeton de la Mère",
+        "description": "Est un des **Jetons de la Famille**.\n__Il existe 2 façon d'obtenir des Jeton de la Mère :__\n\n**1.** Compléter des Mises à Prix que la Mère propose\n**2.** Les trouver dans le Puy de Cambion.\n\nLes Jetons de la Mère, ainsi que d'autres Jetons de la Famille peuvent être échangés avec Grand-Mère contre **100** d'Influence Entrati. Ils peuvent également être échangés contre des Jeton de Grand-Mère",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/6d/Jeton_de_la_M%C3%A8re.png/revision/latest?cb=20200826145258&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jeton_de_la_M%C3%A8re",
+        "apiname": "Mother Token"
+    },
+    "jeton du père": {
+        "nom": "Jeton du Père",
+        "description": "Est un des **Jetons de la Famille**.\n__Il existe 2 façon d'obtenir des Jeton du Père :__\n\n**1.** Échanger des ressources du Puy de Cambion avec le Père\n**2.** Les trouver dans le Puy de Cambion.\n\nLes Jetons du Père, ainsi que d'autres Jetons de la Famille peuvent être échangés avec Grand-Mère contre **100** d'Influence Entrati. Ils peuvent également être échangés contre des Jeton de Grand-MèreEst un des **Jetons de la Famille**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/3e/Jeton_du_P%C3%A8re.png/revision/latest?cb=20200826145310&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Jeton_du_P%C3%A8re",
+        "apiname": "Father Token"
+    },
+    "matrice animus orokin": {
+        "nom": "Matrice Animus Orokin",
+        "description": "Sont une forme de monnaie qui peut être obtenue grâce aux **Mises à Prix - Salle d'Isolation** dans le Puy de Cambion et échangées contre **5 000** d'Influence pour le syndicat Nécraloïde",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/06/Matrice_Animus_Orokin.png/revision/latest?cb=20200826140510&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Matrice_Animus_Orokin",
+        "apiname": "Orokin Animus Matrix"
+    },
+    "matrice balistique orokin": {
+        "nom": "Matrice Balistique Orokin",
+        "description": "Sont une forme de monnaie qui peut être obtenue grâce aux **Mises à Prix - Salle d'Isolation** dans le Puy de Cambion et échangées contre **2 500** d'Influence pour le syndicat Nécraloïde",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/be/Matrice_Balistique_Orokin.png/revision/latest?cb=20200826140517&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Matrice_Balistique_Orokin",
+        "apiname": "Orokin Ballistics Matrix"
+    },
+    "matrice d'orientation orokin": {
+        "nom": "Matrice d'Orientation Orokin",
+        "description": "Sont une forme de monnaie qui peut être obtenue grâce aux **Mises à Prix - Salle d'Isolation** dans le Puy de Cambion et échangées contre **1 000** d'Influence pour le syndicat Nécraloïde",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/73/Matrice_d%27Orientation_Orokin.png/revision/latest?cb=20200826140525&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Matrice_d%27Orientation_Orokin",
+        "apiname": "Orokin Orientation Matrix"
+    },
+    "tumeur bénine infestée": {
+        "nom": "Tumeur Bénine Infestée",
+        "description": "Est une ressource qui peut être acquise en filetant le poisson chez la Fille. Chaque espèce de poisson de  Deimos vous donnera des tumeurs bénignes infestées lors de leur filetage.\nSont utilisées pour fabriquer des composants antigéniques afin de créer des compagnons chez le Fils",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/89/BenignInfestedTumor.png/revision/latest/scale-to-width-down/350?cb=20200825211322",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tumeur_B%C3%A9nine_Infest%C3%A9e",
+        "apiname": "Benign Infested Tumor"
+    },
+    "système de branchie tuberculaire": {
+        "nom": "Système De Branchie Tuberculaire",
+        "description": "Est une ressource qui peut être acquise en filetant le poisson chez la Fille. Certaines espèces de poisson de  Deimos vous donneront des systèmes de branchies tuberculaires lors de leur filetage, ces poisson sont: **Duroide**, **Aquapulmo** et **Chondricorde**. **Ostimyr**.\nSont utilisées pour fabriquer des composants antigéniques afin de créer des compagnons chez le Fils",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5a/Syst%C3%A8me_de_Branchies_Tuberculaires.png/revision/latest?cb=20200831202835&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Syst%C3%A8me_de_Branchies_Tuberculaires",
+        "apiname": "Tubercular Gill System"
+    },
+    "ferros": {
+        "nom": "Ferros",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans les **Plaines d'Eidolon**\n> Il sert à fabriquer **l'Alliage de Fersteel**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/6b/Ferros.png/revision/latest?cb=20190107210604&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ferros",
+        "apiname": "Ferros"
+    },
+    "auron": {
+        "nom": "Auron",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans les **Plaines d'Eidolon**\n> Il sert à fabriquer **l'Alliage d'Auroxium**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/de/Auron.png/revision/latest?cb=20190107210448&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Auron",
+        "apiname": "Auron"
+    },
+    "coprun": {
+        "nom": "Coprun",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans **les Plaines d'Eidolon**\n> Il sert à fabriquer **l'Alliage de Coprite**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f1/Coprun.png/revision/latest?cb=20190107210816&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Coprun",
+        "apiname": "Coprun"
+    },
+    "pyrol": {
+        "nom": "Pyrol",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans **les Plaines de l'Eidolon**\n> Il sert à fabriquer **l'Alliage de Pyrotic**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/92/Pyrol.png/revision/latest?cb=20181216012603&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Pyrol",
+        "apiname": "Pyrol"
+    },
+    "alliage d'auroxium": {
+        "nom": "Alliage d'Auroxium",
+        "description": "Elle se fabrique à partir de **minerais d'Auron** et chaque fabrication vous donnera **20 Alliage d'Auroxium**\nL'Alliage d'Auroxium peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **15,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Fiable**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5e/Alliage_d%27Auroxium.png/revision/latest?cb=20190105173409&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_d%27Auroxium",
+        "apiname": "Auroxium Alloy"
+    },
+    "alliage de fersteel": {
+        "nom": "Alliage de Fersteel",
+        "description": "Elle se fabrique à partir de **minerais de Ferros** et chaque fabrication vous donnera **20 Alliage de Fersteel**\nL'Alliage de Fersteel peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **10,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Visiteur**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f9/Alliage_de_Fersteel.png/revision/latest?cb=20190105140211&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_de_Fersteel",
+        "apiname": "Fersteel Alloy"
+    },
+    "alliage de coprite": {
+        "nom": "Alliage de Coprite",
+        "description": "Chaque fabrication vous donnera **20 Alliage de Coprite**\nL'Alliage de Coprite peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable s'achète auprès du *Vieux Suumbaat* sur Cetus contre **5,000** point de syndicat Ostron<:Ostron:736836688659087430> à condition d'avoir au moins le rang **Étranger**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b4/Alliage_de_Coprite.png/revision/latest?cb=20181216021423&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_de_Coprite",
+        "apiname": "Coprite Alloy"
+    },
+    "alliage de pyrotic": {
+        "nom": "Alliage de Pyrotic",
+        "description": "Est une ressource utilisée sur plusieurs schémas de Cetus. Chaque fabrication vous donne **20 Alliages de Pyrotic**.\nLes Alliages de Pyrotique s'obtiennent en les fabriquant dans la Fonderie. Ce schéma réutilisable peut être acheté si votre rang est au moins **Neutre** pour **1,000**<:Ostron:736836688659087430> points de syndicat Ostron auprès du *Vieux Suumbaat* à **Cetus sur Terre**",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/8/83/Alliage_de_Pyrotic.png/revision/latest/scale-to-width-down/350?cb=20181216013340&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_de_Pyrotic",
+        "apiname": "Pyrotic Alloy"
+    },
+    "azurite": {
+        "nom": "Azurite",
+        "description": "Est obtenable en minant les veines minérales **bleues** dans **les Plaines d'Eidolon**\nVous pouvez les échanger auprès du *Vieux Suumbaat* pour obtenir **50** points de syndicat Ostron<:Ostron:736836688659087430> par **gemme**\n> Il sert à fabriquer les **Larme d'Azurite**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ee/Azurite.png/revision/latest?cb=20190107112246&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Azurite",
+        "apiname": "Azurite"
+    },
+    "larme d'azurite": {
+        "nom": "Larme d'Azurite",
+        "description": "Est une ressource extraite de **l'Azurite**, et est utilisée pour la fabrication des composants d'armes. Chaque fabrication vous rapportera **10 Larme d'Azurite**\nLa Larme d'Azurite peut s'obtenir en la fabricant dans la fonderie. Ce schéma réutilisable s'achète auprès du *Vieux Suumbaat* sur Cetus (Terre) pour **1,000** points de syndicat Ostron<:Ostron:736836688659087430>\nDe plus, le *Vieux Suumbaat* vend parfois les **Larmes d'Azurite** contre des *Platines* dans son offre spéciale quotidienne",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/73/Larme_d%27Azurite.png/revision/latest?cb=20190105145430&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Larme_d%27Azurite",
+        "apiname": "Tear Azurite"
+    },
+    "devar esher": {
+        "nom": "Devar Esher",
+        "description": "Se fabrique à partir de **minerais de Devar** et chaque fabrication vous donnera **10 Devar Esher**\nLe Devar Esher peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **5,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Étranger**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/df/Devar_Esher.png/revision/latest?cb=20181216021256&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Devar_Esher",
+        "apiname": "Esher Devar"
+    },
+    "devar": {
+        "nom": "Devar",
+        "description": "Est une gemme que l'on peut obtenir en minant les veines minérales **bleues** dans **les Plaines d'Eidolon**\nVous pouvez les échanger au *Vieux Sumbaat* contre **50** de réputation par gemme\n> IL sert obtenir des **Devar Esher**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/11/Devar.png/revision/latest?cb=20181226095755&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Devar",
+        "apiname": "Devar"
+    },
+    "sentirum radian": {
+        "nom": "Sentirum Radian",
+        "description": "Issu du **minerais de Sentirum**. Chaque fabrication rapporteront **3 Sentirum Radian**\nLe schéma réutilisable du Sentirum Radian peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **20,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Surah**\nVous pouvez obtenir des Sentirum Radian auprès de *Nakak* dans Cetus pendant l'Opération : **Fléau Céleste** contre **750** points de syndicat Provisions d'Opération et Credits **1,500**<:Credits:736836690840256533>. Vous en obtenez un par achat",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/27/Sentirum_Radian.png/revision/latest?cb=20190105173514&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Sentirum_Radian",
+        "apiname": "Radian Sentirum"
+    },
+    "sentirum": {
+        "nom": "Sentirum",
+        "description": "Est une gemme que l'on obtient en minant dans **les Plaines d'Eidolon** avec __la Perceuse Nosam Avancé__ ou __la Perceuse à plasma Sunpoint__. Il y a **15-30%** de chance de drop sur les veines **bleues**, dépendant de la qualité du minage\nVous pouvez les échanger auprès du *Vieux Suumbaat* pour obtenir **400** points de syndicat Ostron<:Ostron:736836688659087430> par gemme\n> Il sert à fabriquer **des Sentirum Radian**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/Sentirum.png/revision/latest?cb=20190105144512&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Sentirum",
+        "apiname": "Sentirum"
+    },
+    "crimzian étoilé": {
+        "nom": "Crimzian Étoilé",
+        "description": "Elle se fabrique à partir de **minerais de Crimzian** et chaque fabrication vous donnera **6 Crimzian Étoilé**\nLe Crimzian Étoilé peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **15,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Fiable**\nDe plus, le *Vieux Suumbaat* vend parfois les Larmes d'Azurite contre du *Platine* dans son offre spéciale quotidienne",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/44/Crimzian_%C3%89toil%C3%A9.png/revision/latest?cb=20190105173310&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Crimzian_%C3%89toil%C3%A9",
+        "apiname": "Star Crimzian"
+    },
+    "crimzian": {
+        "nom": "Crimzian",
+        "description": "Est obtenable en minant les veines minérales **bleues** dans **les Plaines d'Eidolon**\nVous pouvez les échanger auprès du *Vieux Suumbaat* pour obtenir **100** points de syndicat Ostron<:Ostron:736836688659087430> par gemme\n> Il sert à fabriquer **les Crimzian Étoilé**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8d/Crimzian.png/revision/latest?cb=20190107112301&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Crimzian",
+        "apiname": "Crimzian"
+    },
+    "nyth": {
+        "nom": "Nyth",
+        "description": "Est obtenable en minant les veines minérales **bleue** dans **les Plaines d'Eidolon** avec __la Perceuse Nosam Avancé__ ou __la Perceuse à plasma Sunpoint__\nVous pouvez l'échanger au *Vieux Sumbaat* contre **400** points du syndicat Ostron<:Ostron:736836688659087430> par gemme\n> Vous pouvez le raffiner pour obtenir des **Coeur de Nyth**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/dc/Nyth.png/revision/latest?cb=20171108192409&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nyth",
+        "apiname": "Nyth"
+    },
+    "coeur de nyth": {
+        "nom": "Coeur de Nyth",
+        "description": "Elle se fabrique à partir de **minerais de Nyth** et chaque fabrication vous donnera **3 Coeur de Nyth**\nLe schéma réutilisable du Coeur de Nyth peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **20,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Surah**\nVous pouvez obtenir des Coeur de Nyth auprès de *Nakak* dans Cetus pendant l'Opération : Fléau Céleste contre **750** points de syndicat Provisions d'Opération et Credits **1,500**<:Credits:736836690840256533>. Vous en obtenez un par achat",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f9/Coeur_de_Nyth.png/revision/latest?cb=20181226102023&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Coeur_de_Nyth",
+        "apiname": "Heart Nyth"
+    },
+    "veridos marquise": {
+        "nom": "Veridos Marquise",
+        "description": "Peut-être échanger auprès de *Nakak* sur Cetus pour obtenir des masques cosmétiques. Elle se fabrique à partir de minerais de **Veridos** et chaque fabrication vous donnera **10 Veridos Marquise**\nLe Veridos Marquise peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès du *Vieux Suumbaat* sur Cetus contre **10,000** points du syndicat Ostron<:Ostron:736836688659087430> et si vous avez au **minimum** le rang **Visiteur**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/17/Veridos_Marquise.png/revision/latest?cb=20190105172504&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Veridos_Marquise",
+        "apiname": "Marquise Veridos"
+    },
+    "veridos": {
+        "nom": "Veridos",
+        "description": "Est une gemme que l'on peut obtenir en minant les veines minérales **bleue** dans **les Plaines d'Eidolon**\nVous pouvez les échanger au *Vieux Sumbaat* contre **75** de reputation<:Ostron:736836688659087430> par gemme\n> Vous pouvez le raffiner pour obtenir des **Veridos Marquise**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ec/Veridos.png/revision/latest?cb=20190107112322&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Veridos",
+        "apiname": "Veridos"
+    },
+    "axidite": {
+        "nom": "Axidite",
+        "description": "Cette ressource est obtenable en minant les veines minérales **rouges** dans **la Vallée Orbis**\nVous pouvez également en obtenir dans les *containers* Corpus dans la Vallée Orbis\n>  Il sert à fabriquer **l'Alliage de Axidrol**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/26/Axidite.png/revision/latest?cb=20181124175643&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Axidite",
+        "apiname": "Axidite"
+    },
+    "alliage de axidrol": {
+        "nom": "Alliage de Axidrol",
+        "description": "Peut être obtenu en le fabricant dans la fonderie. Ce schéma réutilisable peut être acheté contre **1,000** points du syndicat Union Solaris auprès de *Smokefinger* dans **Fortuna sur Vénus**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5c/Alliage_de_Axidrol.png/revision/latest?cb=20181124180057&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_de_Axidrol",
+        "apiname": "Axidrol Alloy"
+    },
+    "venerol": {
+        "nom": "Venerol",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans **la Vallée Orbis**\nVous pouvez également en obtenir dans les **containers** Corpus dans la Vallée Orbis\n> Il sert à fabriquer **l'Alliage Venerdo**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/21/Venerol.png/revision/latest?cb=20181202215734&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Venerol",
+        "apiname": "Venerol"
+    },
+    "alliage venerdo": {
+        "nom": "Alliage Venerdo",
+        "description": "Est une ressource raffinée à base de **Venerol**. peut être obtenu en le fabricant dans la fonderie. Ce schéma réutilisable peut être acheté contre **2,000** points du syndicat **Union Solaris** auprès de *Smokefinger* dans **Fortuna** sur Vénus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/21/Venerol.png/revision/latest?cb=20181202215734&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_Venerdo",
+        "apiname": "Venerdo Alloy"
+    },
+    "travoride": {
+        "nom": "Travoride",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans **la Vallée Orbis**\nVous pouvez également en obtenir dans les containers Corpus dans **la Vallée Orbis**\n> Sert à fabriquer **l'Alliage de Travocyte**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/6f/Travoride.png/revision/latest?cb=20181126141001&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Travoride",
+        "apiname": "Travoride"
+    },
+    "alliage de travocyte": {
+        "nom": "Alliage de Travocyte",
+        "description": "Peut être obtenu en le fabricant dans la fonderie\nCe schéma réutilisable peut être acheté contre **1,000** points du syndicat **Union Solaris** auprès de *Smokefinger* dans **Fortuna** sur Vénus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/87/Alliage_de_Travocyte.png/revision/latest?cb=20181126141423&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_de_Travocyte",
+        "apiname": "Travocyte Alloy"
+    },
+    "hesperon": {
+        "nom": "Hesperon",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans **la Vallée Orbis**\nVous pouvez également en obtenir dans les containers Corpus dans **la Vallée Orbis**\n> Sert à fabriquer **l'Alliage Hespazym**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/53/Hesperon.png/revision/latest?cb=20181203004238&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Hesperon",
+        "apiname": "Hesperon"
+    },
+    "alliage hespazym": {
+        "nom": "Alliage Hespazym",
+        "description": "Est une ressource raffinée à base de **Hesperon**\nPeut être obtenu en le fabricant dans la fonderie. Son schéma réutilisable peut être acheté contre **4,000** points du syndicat **Union Solaris** auprès de *Smokefinger* dans **Fortuna** sur Vénus",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/17/Alliage_de_Hespazym.png/revision/latest?cb=20181203004613&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_Hespazym",
+        "apiname": "Hespazym Alloy"
+    },
+    "noctrul": {
+        "nom": "Noctrul",
+        "description": "Est obtenable en minant les veines minérales **bleue** dans **la Vallée Orbis**\nVous pouvez l'échanger à *Smokefinger* contre **50** points du syndicat Union Solaris<:SolarisUnited:736843298567749672> chacun\n> Vous pouvez le raffiner pour obtenir des **Cœurs de Noctrul**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/10/Noctrul.png/revision/latest?cb=20181212134558&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Noctrul",
+        "apiname": "Noctrul"
+    },
+    "cœur de noctrul": {
+        "nom": "Cœur de Noctrul",
+        "description": "S'obtiennent en les fabriquant dans la Fonderie, chaque fabrication vous donnera **10 Cœurs de Noctrul**. Son schéma réutilisable peut être acheté auprès de *Smokefinger* sur Fortuna à Venus pour **1,000** points de syndicat Union Solaris<:SolarisUnited:736843298567749672>",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/48/Coeur_de_Noctrul.png/revision/latest?cb=20181212134540&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/C%C5%93ur_de_Noctrul",
+        "apiname": "Heart Noctrul"
+    },
+    "goblite": {
+        "nom": "Goblite",
+        "description": "Est obtenable en minant les veines minérales bleue dans la Vallée Orbis\nVous pouvez l'échanger à *Smokefinger* contre **200** points du syndicat Union Solaris<:SolarisUnited:736843298567749672> chacun\n> Vous pouvez le raffiner pour obtenir des **Larmes de Goblite**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/39/Goblite.png/revision/latest?cb=20181214163702&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Goblite",
+        "apiname": "Goblite"
+    },
+    "larmes de goblite": {
+        "nom": "Larmes de Goblite",
+        "description": "S'obtiennent en les fabriquant dans la Fonderie chaque fabrication vous donnera **10 Larmes de Goblite**. Son schéma réutilisable peut être acheté auprès de *Smokefinger* sur **Fortuna** à Venus pour **2,000** points de syndicat Union Solaris<:SolarisUnited:736843298567749672>",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c7/Larmes_de_Goblite.png/revision/latest?cb=20181214165123&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Larmes_de_Goblite",
+        "apiname": "Goblite Tears"
+    },
+    "zodian radiant": {
+        "nom": "Zodian Radiant",
+        "description": "S'obtiennent en les fabriquant dans la Fonderie chaque fabrication vous donnera **3 Zodian Radiant**. Sont schéma réutilisable peut être acheté auprès de *Smokefinger* sur **Fortuna** à Venus pour **8,000** points de syndicat Union Solaris<:SolarisUnited:736843298567749672>",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9a/Zodian_Radiant.png/revision/latest?cb=20181203001517&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Zodian_Radiant",
+        "apiname": "Radiant Zodian"
+    },
+    "zodian": {
+        "nom": "Zodian",
+        "description": "Est obtenable en minant les veines minérales **bleue** dans **la Vallée Orbis**\nVous pouvez l'échanger à *Smokefinger* contre **1.000** points du syndicat Union Solaris<:SolarisUnited:736843298567749672> chacun\n> Vous pouvez le raffiner pour obtenir des **Zodian Radiant**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a0/Zodian.png/revision/latest?cb=20181218101158&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Zodian",
+        "apiname": "Zodian"
+    },
+    "phasmin lisse": {
+        "nom": "Phasmin Lisse",
+        "description": "S'obtiennent en les fabriquant dans la Fonderie chaque fabrication vous donnera **10 Phasmins Lisse**. Son schéma réutilisable peut être acheté auprès de *Smokefinger* sur **Fortuna** à Venus pour **1,000** points de syndicat Union Solaris<:SolarisUnited:736843298567749672>",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/85/Phasmin_lisse.png/revision/latest?cb=20181214004730&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Phasmin_lisse",
+        "apiname": "Smooth Phasmin"
+    },
+    "phasmin": {
+        "nom": "Phasmin",
+        "description": "Est obtenable en minant les veines minérales bleue dans la Vallée Orbis\nVous pouvez l'échanger à *Smokefinger* contre **50** points du syndicat Union Solaris<:SolarisUnited:736843298567749672> chacun\n> Vous pouvez le raffiner pour obtenir des **Phasmins lisse**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c3/Phasmin.png/revision/latest?cb=20181214004543&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Phasmin",
+        "apiname": "Phasmin"
+    },
+    "amarast étoilé": {
+        "nom": "Amarast étoilé",
+        "description": "S'obtiennent en les fabriquant dans la Fonderie chaque fabrication vous donnera **6 Amarasts étoilé**. Son schéma réutilisable peut être acheté auprès de *Smokefinger* sur **Fortuna** à Venus pour **4,000** points de syndicat Union Solaris<:SolarisUnited:736843298567749672>",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/0d/Amarast_%C3%A9toil%C3%A9.png/revision/latest?cb=20181203001414&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Amaraste_%C3%A9toil%C3%A9",
+        "apiname": "Star Amarast"
+    },
+    "amarast": {
+        "nom": "Amarast",
+        "description": "Est obtenable en minant les veines minérales **bleue** dans **la Vallée Orbis**\nVous pouvez l'échanger à *Smokefinger* contre **500** points du syndicat Union Solaris<:SolarisUnited:736843298567749672> chacun\n> Vous pouvez le raffiner pour obtenir des **Amarast étoilé**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b9/Amarast.png/revision/latest?cb=20181215133223&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Amaraste",
+        "apiname": "Amarast"
+    },
+    "thyst marquise": {
+        "nom": "Thyst Marquise",
+        "description": "S'obtiennent en les fabriquant dans la Fonderie chaque fabrication vous donnera **3 Thyst Marquise**. Son schéma réutilisable peut être acheté auprès de *Smokefinger* sur **Fortuna** à Venus pour **12,000** points de syndicat Union Solaris<:SolarisUnited:736843298567749672>",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/3/35/Thyst_Marquise.png/revision/latest?cb=20181203001658&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Thyst_Marquise",
+        "apiname": "Marquise Thyst"
+    },
+    "thyst": {
+        "nom": "Thyst",
+        "description": "Est obtenable en minant les veines minérales **bleue** dans **la Vallée Orbis**\nVous pouvez l'échanger à *Smokefinger* contre **1,000** points du syndicat Union Solaris<:SolarisUnited:736843298567749672> chacun\n> Vous pouvez le raffiner pour obtenir des **Thyst Marquise**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/Thyst.png/revision/latest?cb=20181218213241&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Thyst",
+        "apiname": "Thyst"
+    },
+    "tiametrite": {
+        "nom": "Tiametrite",
+        "description": "Est obtenable en minant les veines minérales **bleue** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer **Le Tiametrite à Facettes**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/00/Tiametrite.png/revision/latest/scale-to-width-down/350?cb=20200825220043",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tiametrite",
+        "apiname": "Tiametrite"
+    },
+    "dagonique": {
+        "nom": "Dagonique",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer **Le Dagonique Purgée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/42/Dagonic.png/revision/latest/scale-to-width-down/350?cb=20200825211823",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Dagonique",
+        "apiname": "Dagonic"
+    },
+    "adramalium": {
+        "nom": "Adramalium",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer **L'Alliage Adramal**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/10/Adramalium.png/revision/latest/scale-to-width-down/350?cb=20200825211047",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Adramalium",
+        "apiname": "Adramalium"
+    },
+    "bapholite": {
+        "nom": "Bapholite",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer **Le Bapholite Trempée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/Bapholite.png/revision/latest/scale-to-width-down/350?cb=20200825211051",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Bapholite",
+        "apiname": "Bapholite"
+    },
+    "namalon dévolu": {
+        "nom": "Namalon Dévolu",
+        "description": "Elle se fabrique à partir de **Namalon** et chaque fabrication vous donnera **20 Namalon Dévolu**\nLe Namalon Dévolu peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable s'achète auprès d'*Otak* sur Necralisk contre **2,000** point de syndicat Entrati à condition d'avoir au moins le rang **Neutre**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/6/67/DevolvedNamalon.png/revision/latest/scale-to-width-down/350?cb=20200825212605",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Namalon_D%C3%A9volu",
+        "apiname": "Devolved Namalon"
+    },
+    "namalon": {
+        "nom": "Namalon",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer **Le Namalon Dévolu**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/ac/Namalon.png/revision/latest/scale-to-width-down/350?cb=20200825214015",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Namalon",
+        "apiname": "Namalon"
+    },
+    "thaumica": {
+        "nom": "Thaumica",
+        "description": "Est obtenable en minant les veines minérales **rouges** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer **Le Distillat Thaumique**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4b/Thaumica.png/revision/latest/scale-to-width-down/350?cb=20200825215733",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Thaumica",
+        "apiname": "Thaumica"
+    },
+    "tiametrite à facettes": {
+        "nom": "Tiametrite à Facettes",
+        "description": "Elle se fabrique à partir de **Tiametrite** et chaque fabrication vous donnera **10 Tiametrite à Facettes**\nL'Tiametrite à Facettes peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès d'*Otak* sur Necralisk contre **2,000** points du syndicat Entrati et si vous avez au **minimum** le rang **Neutre**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/59/FacetedTiametrite.png/revision/latest/scale-to-width-down/350?cb=20200825212608",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Tiametrite_%C3%A0_Facettes",
+        "apiname": "Faceted Tiametrite"
+    },
+    "dagonique purgée": {
+        "nom": "Dagonique Purgée",
+        "description": "Elle se fabrique à partir de **Dagonique** et chaque fabrication vous donnera **10 Dagonique Purgée**\nLe Dagonique Purgée peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès d'*Otak* sur  Necralisk  contre **2,000** points du syndicat Entrati et si vous avez au **minimum** le rang **Neutre**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/2/26/PurgedDagonic.png/revision/latest/scale-to-width-down/350?cb=20200825214804",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Dagonique_Purg%C3%A9e",
+        "apiname": "Purged Dagonic"
+    },
+    "alliage adramal": {
+        "nom": "Alliage Adramal",
+        "description": "Elle se fabrique à partir de **Adramalium** et chaque fabrication vous donnera **20 Alliage Adramal**\nL'Alliage Adramal peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable s'achète auprès d'*Otak* sur  Necralisk  contre **2,000** point de syndicat Entrati à condition d'avoir au moins le rang **Neutre**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/cc/AdramalAlloy.png/revision/latest/scale-to-width-down/350?cb=20200825211046",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Alliage_Adramal",
+        "apiname": "Adramal Alloy"
+    },
+    "bapholite trempée": {
+        "nom": "Bapholite Trempée",
+        "description": "Elle se fabrique à partir de **Bapholite** et chaque fabrication vous donnera **20 Bapholite Trempée**\nLe Bapholite Trempée peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable s'achète auprès d'*Otak* sur Necralisk contre **2,000** point de syndicat Entrati à condition d'avoir au moins le rang **Neutre**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/91/TemperedBapholite.png/revision/latest/scale-to-width-down/350?cb=20200825215732",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Bapholite_Tremp%C3%A9e",
+        "apiname": "Tempered Bapholite"
+    },
+    "distillat thaumique": {
+        "nom": "Distillat Thaumique",
+        "description": "Elle se fabrique à partir de **Thaumica** et chaque fabrication vous donnera **20 Distillat Thaumique**\nLe Distillat Thaumique peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable s'achète auprès d'*Otak* sur Necralisk contre **4,000** point de syndicat Entrati à condition d'avoir au moins le rang **Connaissance**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/ab/ThaumicDistillate.png/revision/latest/scale-to-width-down/350?cb=20200825215733",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Distillat_Thaumique",
+        "apiname": "Thaumic Distillate"
+    },
+    "héciphron": {
+        "nom": "Héciphron",
+        "description": "Est obtenable en minant les veines minérales **bleues** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons d'Otak.\n> Il sert à fabriquer les **Héciphron Purifiée**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/09/Heciphron.png/revision/latest/scale-to-width-down/350?cb=20200825213108",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/H%C3%A9ciphron",
+        "apiname": "Heciphron"
+    },
+    "héciphron purifié": {
+        "nom": "Héciphron Purifié",
+        "description": "Est une ressource extraite de **Héciphron**, et est utilisée pour la fabrication des composants d'armes. Chaque fabrication vous rapportera **10 Héciphron Purifié**\nLe Héciphron Purifiée peut s'obtenir en la fabricant dans la fonderie. Ce schéma réutilisable s'achète auprès d'*Otak* sur Necralisk (Deimos) pour **2,000** points de syndicat Entrati et si vous avez au **minimum** le rang **Étranger**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/7/7f/PurifiedHeciphron.png/revision/latest/scale-to-width-down/350?cb=20200825214805",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/H%C3%A9ciphron_Purifi%C3%A9",
+        "apiname": "Purified Heciphron"
+    },
+    "nécrathène stellé": {
+        "nom": "Nécrathène Stellé",
+        "description": "Se fabrique à partir de **Nécrathène** et chaque fabrication vous donnera **6 Nécrathène Stellé**\nLe Nécrathène Stellé peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès d'*Otak* sur Necralisk contre **4,000** points du syndicat Entrati et si vous avez au **minimum** le rang **Connaissance**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/14/StellatedNecrathene.png/revision/latest/scale-to-width-down/350?cb=20200825215731",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/N%C3%A9crath%C3%A8ne_Stell%C3%A9",
+        "apiname": "Stellated Necrathene"
+    },
+    "nécrathène": {
+        "nom": "Nécrathène",
+        "description": "Est une gemme que l'on peut obtenir en minant les veines minérales **bleues** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* contre des jetons\n> IL sert obtenir des **Nécrathène Stellé**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/53/Necrathene.png/revision/latest/scale-to-width-down/350?cb=20200825214016",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/N%C3%A9crath%C3%A8ne",
+        "apiname": "Necrathene"
+    },
+    "xénorhast trapèze": {
+        "nom": "Xénorhast Trapèze",
+        "description": "Se fabrique à partir de **Xénorhast** et chaque fabrication vous donnera **? Xénorphast Trapèze**\nLe Xénorphast Trapèze peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable du Xénorhast Trapèze peut être acheté auprès d'*Otak* sur Necralisk contre **8,000** points du syndicat Entrati et si vous avez au **minimum** le rang **Associé**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/88/TrapeziumXenorhast.png/revision/latest/scale-to-width-down/350?cb=20200825220043",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/X%C3%A9norhast_Trap%C3%A8ze",
+        "apiname": "Trapezium Xenorhast"
+    },
+    "xénorhast": {
+        "nom": "Xénorhast",
+        "description": "Est une gemme que l'on peut obtienir en minant les veines minérales **bleues** dans le**Puy de Cambion**.\nVous pouvez les échanger auprès d'*Otak* contre des jetons\n> Il sert à fabriquer des **Xénorphast Tapèze**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/fc/Xenorhast.png/revision/latest/scale-to-width-down/350?cb=20200825220444",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/X%C3%A9norhast",
+        "apiname": "Xenorhast"
+    },
+    "cabochon embolos": {
+        "nom": "Cabochon Embolos",
+        "description": "Elle se fabrique à partir d'**Embolos** et chaque fabrication vous donnera **1 Cabochon Embolos**\nLe Cabochon Embolos peut s'obtenir en le fabricant dans la Fonderie. Ce schéma réutilisable peut être acheté auprès d'*Otak* sur Necralisk contre **8,000** points du syndicat Entrati et si vous avez au **minimum** le rang **Associé**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/c/c8/CabochonEmbolos.png/revision/latest/scale-to-width-down/350?cb=20200825211325",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cabochon_Embolos",
+        "apiname": "Cabochon Embolos"
+    },
+    "embolos": {
+        "nom": "Embolos",
+        "description": "Est obtenable en minant les veines minérales **bleues** dans le **Puy de Cambion**\nVous pouvez les échanger auprès d'*Otak* pour obtenir des jetons.\n> Il sert à fabriquer **Les Cabochon Embolos**",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f9/Embolos.png/revision/latest/scale-to-width-down/350?cb=20200825212608",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Embolos",
+        "apiname": "Embolos"
+    },
+    "vessie de fermentation": {
+        "nom": "Vessie De Fermentation",
+        "description": "Est une ressource qui peut être acquise en filetant le poisson chez la Fille. Certaines espèces de poisson de  Deimos vous donneront des vessies de fermentation lors de leur filetage, ces poisson sont: **Kymaeros**, **Cryptosuctus**, **Ostimyr**, **Barbisteo**, **Aquapulmo**, **Myxostomata**, **Vitreospina**,**Amniophysi**.\nSont utilisées pour fabriquer des composants antigéniques afin de créer des compagnons chez le Fils",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5a/Syst%C3%A8me_de_Branchies_Tuberculaires.png/revision/latest?cb=20200831202835&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Vessie_de_Fermentation",
+        "apiname": "Ferment Bladder"
+    },
+    "écaille de poisson": {
+        "nom": "Écaille de Poisson",
+        "description": "Sont une ressource qui peuvent être obtenue en apportant les poissons à **la Pêcheuse Hai-Luk** pour les découper. Le nombre d'écailles **augmente** avec la taille du poisson capturé, indépendamment du poids.\nLes Écailles de Poisson sont utilisées pour fabriquer des composants *Zaw* et des *articles liés* à **l'Opérateur**",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/a/a9/Ecaille_de_Poisson.png/revision/latest/scale-to-width-down/256?cb=20190105150410&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ecaille_de_Poisson",
+        "apiname": "Fish Scales"
+    },
+    "huile de poisson": {
+        "nom": "Huile de Poisson",
+        "description": "Est une ressource que l'on peut obtenir en découpant des poissons lorsque l'on demande à **la Pêcheuse Hai-Luk**. Le nombre d'huile dépend de la taille du poisson que vous capturez, indépendamment du poids.\nL'Huile de Poisson est utilisée dans la fabrication de différents objets spécifique aux Plaines d'Eidolon et comme sacrifice pour monter son rang dans le syndicat Ostron",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/9/9f/Huile_de_Poisson.png/revision/latest/scale-to-width-down/256?cb=20190107211610&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Huile_de_Poisson",
+        "apiname": "Fish Oil"
+    },
+    "viande de poisson": {
+        "nom": "Viande de Poisson",
+        "description": "Est une ressource que l'on peut obtenir en découpant des poissons lorsque l'on demande à **la Pêcheuse Hai-Luk**. Le nombre de viande dépend de la taille du poisson que vous capturez, indépendamment du poids.\nLa Viande de Poisson est utilisée dans la fabrication de différents *appâts* qui sont nécessaires pour *pêcher d'autre poisson*",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/4/42/Viande_de_Poisson.png/revision/latest/scale-to-width-down/256?cb=20190107211514&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Viande_de_Poisson",
+        "apiname": "Fish Meat"
+    },
+    "ferraille": {
+        "nom": "Ferraille",
+        "description": "Est une ressource que l'on peut obtenir en découpant des **Servopoissons** chez *Le Bizness* sur **Fortuna**. Elle est utilisée dans de nombreuses recettes de Fortuna",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/a/ab/Ferrailles.png/revision/latest/scale-to-width-down/350?cb=20181124173631&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ferraille",
+        "apiname": "Scrap"
+    },
+    "code génétique de kavat": {
+        "nom": "Code Génétique de Kavat",
+        "description": "Sont une ressource nécessaire pour la création d'un Kavat depuis **l'Incubateur de l'Orbiteur**.\nLes Codes Génétique de Kavat peuvent être collectés lorsque que **l'on scan des Kavats sauvages à 25,0% de chance**. Il est également possible d'en acheter au Marché avec le *Kit de Démarrage Kavat* (au prix de **95**<:Platinum:736836689594417222>), ou des Codes génétique au prix de **5**<:Platinum:736836689594417222> l'unité.",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/1/16/KavatCodeGenetique.png/revision/latest/scale-to-width-down/270?cb=20161024162405&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Code_G%C3%A9n%C3%A9tique_de_Kavat",
+        "apiname": "Kavat Genetic Code"
+    },
+    "cellules de phase": {
+        "nom": "Cellules de Phase",
+        "description": "Sont une monnaie unique exclusive à l'événement Opération : **Venin Orphix**, qui peut être gagnée en accomplissant des missions. Elles sont gagnées à raison de **1 Cellule de Phase** pour **10 points**. Pour chaque seconde où il n'y a pas *d'Orphix* **actif** sur la carte, les joueurs gagneront **2 points**. Des points supplémentaires peuvent être gagnés en tuant *les Sentients* et une base de **100** / **150** / **200 points** est donnée pour la destruction *d'Orphix* lors de missions **Normal** / **Avancé** / **Endurance**.",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/6/6a/Cellules_de_Phase.png/revision/latest/scale-to-width-down/350?cb=20201219214044&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Cellules_de_Phase",
+        "apiname": "Phasic Cells"
+    }
+}

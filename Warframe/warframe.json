@@ -1,0 +1,738 @@
+{
+    "ash": {
+        "nom": "Ash",
+        "description": "Ses composants sont obtenus sur les maniaques Grineer mais son schéma est dans le marché",
+        "imgurl": "https://www.clan-warframe.fr/wp-content/uploads/2014/12/0036-new-1024x576.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/1/17/AshNewLook.png/revision/latest?cb=20141224134500&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ash",
+        "prime": {
+            "nom": "Ash Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/84/AshPrimePromo.jpg/revision/latest?cb=20151013191311",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/6/62/AshPrimeNewLook.png/revision/latest?cb=20150708071303&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Ash/Prime"
+        }
+    },
+    "atlas": {
+        "nom": "Atlas",
+        "description": "Son schéma peut être obtenu en récompense de la quête **Le Précepte de Jordas**, qui débloque la mission Archwing d'Assassinat du Golem Jordas et qui donne les composants principaux (info codex)",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/Warframe-Atlas-vignette.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/7/7f/AtlasNewLook.png/revision/latest/scale-to-width-down/582?cb=20151002061203&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Atlas",
+        "prime": {
+            "nom": "Atlas Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://www.pcgamesn.com/wp-content/uploads/2019/09/atlas-prime.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/a/ad/Atlas_Prime.png/revision/latest/top-crop/width/360/height/450?cb=20200714201648&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Atlas#Prime"
+        }
+    },
+    "banshee": {
+        "nom": "Banshee",
+        "description": "S'obtient dans le dojo dans le laboratoire Tenno",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-banshee-vignette.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9d/BansheeNewLook.png/revision/latest?cb=20141124023002",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Banshee",
+        "prime": {
+            "nom": "Banshee Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://n8k6e2y6.ssl.hwcdn.net/images/_newsImages/2017/Feb/21/XB1_BansheePrime_1920x1080.png",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/8/85/BansheePrimeNewLook.png/revision/latest?cb=20191105105453&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Banshee/Prime"
+        }
+    },
+    "baruuk": {
+        "nom": "Baruuk",
+        "description": "Son schéma peut être obtenues auprès de Little Duck si vous avez au moins le **rang 2** contre **5.000** points du syndicat Vox Solaris. Les autres parties de cette Warframe peuvent être obtenues auprès de Little Duck si vous avez au moins le rang 3 contre 5.000 points du syndicat Vox Solaris",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/renforts%20tenno/warframe-baruuk-cobra-et-crane.png",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/b/b5/BaruukIcon272.png/revision/latest?cb=20181227020117&path-prefix=pt",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Baruuk",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "chroma": {
+        "nom": "Chroma",
+        "description": "S'obtient en terminant la quête la Nouvel Etrange sur la jonction de Europe sur Jupiter (info codex) mais ses  pièces s'obtiennent en jonction Neuroptique (jonction d Uranus sur Saturne),Châssis (jonction de Neptune sur Uranus),Système (jonction de Pluton sur Neptune)",
+        "imgurl": "https://image.noelshack.com/fichiers-md/2015/12/1426850713-2963-card-communaute.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/2/2d/ChromaNewLook.png/revision/latest?cb=20150406094637&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Chroma",
+        "prime": {
+            "nom": "Chroma Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8e/ChromaPrimePromo.jpg/revision/latest/scale-to-width-down/600?cb=20181218135935&path-prefix=fr",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/f/f2/ChromaPrime.png/revision/latest?cb=20191121122500&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Chroma/Prime"
+        }
+    },
+    "ember": {
+        "nom": "Ember",
+        "description": "Ses pièces s'obtiennent en terrassant Le Général Sargas Ruk dans la mission Tethys sur Saturne mais son schéma est dans le marché",
+        "imgurl": "https://www.clan-warframe.fr/wp-content/uploads/2014/12/Ember.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a7/EmberNewLook.png/revision/latest?cb=20141124023013",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ember",
+        "prime": {
+            "nom": "Ember Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/f0/EmberPrimePromo.jpg/revision/latest/scale-to-width-down/600?cb=20131225195210",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/d/da/EmberPrime2.png/revision/latest?cb=20141214145713&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Ember/Prime"
+        }
+    },
+    "equinox": {
+        "nom": "Equinox",
+        "description": "Equinox et la fusion de sa forme Jour et Nuit. Les schémas des composants et des aspects peuvent être obtenus en terrassant Tyl Regor dans la mission Titania sur Uranus, il y a  8 parties à droper.\nEquinox a besoin d'une méthode de construction unique :\nVous devrez fabriquer les deux aspects d'Equinox (Jour et Nuit) dans la Fonderie - chacun ayant besoin d'un casque, d'un châssis et de systèmes - avant que la warframe elle-même ne puisse être construite (comme le sont les armes secondaires doubles, par exemple)",
+        "imgurl": "https://images2.alphacoders.com/723/thumb-1920-723157.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ee/EquinoxSolo.png/revision/latest?cb=20150801005414&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Equinox",
+        "prime": {
+            "nom": "Equinox Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://static2.thegamerimages.com/wordpress/wp-content/uploads/2019/05/Warframe-Equinox-Prime.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/7/72/EquinoxPrimeHybridNewLook.png/revision/latest?cb=20191202154740&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Equinox/Prime"
+        }
+    },
+    "excalibur umbra": {
+        "nom": "Excalibur Umbra",
+        "description": "S'obtient en terminant la quête **Le Sacrifice** (info codex)",
+        "imgurl": "https://steamuserimages-a.akamaihd.net/ugc/942824525727823957/CC8ECABFB234CAFBDA13EFA074952AA5193D0EB3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/5/5c/ExcaliburUmbra.png/revision/latest?cb=20180702172205&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Excalibur#Umbra",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "excalibur": {
+        "nom": "Excalibur",
+        "description": "Ses pièces s'obtiennent en terrassant le Lieutenant Lech Kril dans la mission War sur Mars mais son schéma est dans le marché",
+        "imgurl": "https://cdn3.dualshockers.com/wp-content/uploads/2017/03/Excalibur_Wallpaper.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/4/40/ExcaliburNewLook.png/revision/latest/top-crop/width/360/height/450?cb=20150218091447&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Excalibur",
+        "prime": {
+            "nom": "Excalibur Prime",
+            "dispo": false,
+            "vault": true,
+            "description": ":warning:Il est totalement impossible de l'avoir",
+            "imgurl": "https://i.pinimg.com/originals/4e/04/3a/4e043a703a54da383d155e0a6d9dc05d.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/2/2a/ExcaliburPrimeNewLook.png/revision/latest/top-crop/width/360/height/450?cb=20150218091507&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Excalibur/Prime"
+        }
+    },
+    "frost": {
+        "nom": "Frost",
+        "description": "Ses pièces s'obtiennent en terrassant le Lieutenant Lech Kril et le Captaine Vor la mission Exta sur Cérès  mais son schéma est dans le marché",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-frost-vignette.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/5/5a/FrostNewLook.png/revision/latest/scale-to-width-down/582?cb=20141124023059",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Frost",
+        "prime": {
+            "nom": "Frost Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/1/13/Frost_Prime_Scenic.jpg/revision/latest/scale-to-width-down/600?cb=20130505225234",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/d/d1/FrostPrimeNewLook.png/revision/latest/top-crop/width/360/height/450?cb=20150222092334&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Frost/Prime"
+        }
+    },
+    "gara": {
+        "nom": "Gara",
+        "description": "Son schéma s'obtient en terminant la quête **La Veillée de Saya** sur Terre sur cetus (info codex) mais ses pièces s'obtiennent dans les mise à prix Cetus",
+        "imgurl": "https://i.ytimg.com/vi/P01DsxHXlk0/maxresdefault.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/3/39/GaraNewLook2.png/revision/latest?cb=20180514035025&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Gara",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "garuda": {
+        "nom": "Garuda",
+        "description": "S'obtient en terminant la quête **Vox Solaris** sur Vénus sur Fortuna (info codex) mais ses pièces s'obtiennent dans les mises à prix de Fortuna",
+        "imgurl": "https://i.ytimg.com/vi/P01DsxHXlk0/maxresdefault.jpg",
+        "thumurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-garuda-vignette.jpg",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Garuda",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "gauss": {
+        "nom": "Gauss",
+        "description": "Ses pièces s'obtiennennent dans la perturbation de niveau C sur Kelpie, Sedna. Chaque composant a une chance de drop de **10%**",
+        "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/4a288c7a8f7c5ce9bf7e087be8e98cb3.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/f/fd/Gauss.png/revision/latest?cb=20190830151420&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Gauss",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "grendel": {
+        "nom": "Grendel",
+        "description": "Vous devrez **acheter des clés** spéciales que vous trouverez dans les récompenses **d'Arbitrage**(et une mission de type alerte disponible seulement après avoir terminé toutes les missions du système solaire) chez *les Arbitres d'Hexis* dans les relais\nChaque clé correspond à un partie de Grendel, et coûtent **25 Essence Vitus** chacune(les Localisateurs s'utilisent dans certaines missions sur Europe)\nLe schéma principal est achetable au Marché pour **35,000** Credits\nAcheter un **Localisateur** débloquera en permanence la mission unique qui lui est associée, ce qui garantit le composant de Grendel associé en récompense",
+        "imgurl": "https://6images.cgames.de/images/gamestar/4/warframe-grendel_6075715.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/9/9f/Grendel.png/revision/latest?cb=20191103184921&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Grendel",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "harrow": {
+        "nom": "Harrow",
+        "description": "Son schéma s'obtient en terminant la quête **Le Fardeau d'Harrow** après avoir fait la guerre intérieure (info codex) mais ses pièces s'obtiennent dans des missions particulière: Neuroptipe (pago sur la Forteresse Kuva),Châssis (mission de fissure pour les reliques),Système (désertation rotation C)",
+        "imgurl": "https://i.pinimg.com/originals/70/d3/55/70d3550978cf2387f0088fa4da4329d8.png",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/4/4d/Harrow.png/revision/latest?cb=20170705132103&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Harrow",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "hildryn": {
+        "nom": "Hildryn",
+        "description": "Hildryn son schéma s'obtient auprès de Little Duck contre **5,000** ReputationLarge Vox Solaris à condition d'être **Rang 2** sur ce syndicat Tous les autres composants s'obtiennent en vainquant l'Orbis Exploiteur",
+        "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/639c26aec018439493b884c4030ea56c.jpg",
+        "thumurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/warframe/warframe-hildryn-icone02.png",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Hildryn",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "hydroid": {
+        "nom": "Hydroid",
+        "description": "Ses pièces s'obtiennent en terrassant Vay Hek dans la mission Oro sur Terre mais son schéma est dans le marché",
+        "imgurl": "https://warframeblog.com/wp-content/uploads/2018/03/hydroid-puddle-build.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9f/HydroidNewLook.png/revision/latest/scale-to-width-down/291?cb=20141124023113",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Hydroid",
+        "prime": {
+            "nom": "Hydroid Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://n8k6e2y6.ssl.hwcdn.net/images/_newsImages/2017/Nov/28/HydroidPrime_Keyart1.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/6/6a/Hydroid_Prime.png/revision/latest?cb=20170904162121&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Hydroid/Prime"
+        }
+    },
+    "inaros": {
+        "nom": "Inaros",
+        "description": "S'obtient en terminant la quête **Les Sables d'Inaros**, cette quête est achetable auprès de Baro Ki Teer (info codex)",
+        "imgurl": "https://www.clan-warframe.fr/wp-content/uploads/2016/03/U-18-5-v2.png",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/3/3a/InarosNewLook.png/revision/latest?cb=20180514040029&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Inaro",
+        "prime": {
+            "nom": "Inaros Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/eb8fe484fbeb4f4aeecf1a6fec6a6cc2.png",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/2/20/Inaros_Prime.png/revision/latest/top-crop/width/360/height/450?cb=20200714193632&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Inaros/Prime"
+        }
+    },
+    "ivara": {
+        "nom": "Ivara",
+        "description": "Ses pièces sont obtenables dans les missions d'espionnage normales, des failles et lors des alertes espionnages en mode cauchemars",
+        "imgurl": "https://images4.alphacoders.com/723/thumb-1920-723152.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b5/Ivara.png/revision/latest/scale-to-width-down/291?cb=20151204075625&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Ivara",
+        "prime": {
+            "nom": "Ivara Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://pbs.twimg.com/media/ELct-0CW4AMInZl.png:large",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/3/3c/Ivara_Prime.png/revision/latest?cb=20191219200927&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Ivara/Prime"
+        }
+    },
+    "khora": {
+        "nom": "Khora",
+        "description": "Ses pièces sont obtenus au travers des missions Assaut du Sanctuaire.PS: il est impossible d'obtenir les pièces de Khora dans la mission Assaut du Sanctuaire Élite.Une fois la Nouvel Etrange terminé",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/9/9b/Dev100-Khora.png/revision/latest/scale-to-width-down/500?cb=20180516091604&path-prefix=fr",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/0/08/Khora.png/revision/latest?cb=20200403112434&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Khora",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "lavos": {
+        "nom": "Lavos",
+        "description": "Les schémas principaux et composants de *Lavos* peuvent être achetés auprès de *Père* pendant __l'Opération :__ **Venin Orphix** contre **1,000 Cellules de Phase** <:CellulesdePhase:792817713541414952> pour les composants et **1,500**<:CellulesdePhase:792817713541414952> pour le schéma principal. Un total de **4,500 Cellules de Phase** <:CellulesdePhase:792817713541414952> sont nécessaires.\nLe schéma et les composants de Lavos peuvent également être obtenus à partir des __missions Opération :__ **Venin Orphix**.",
+        "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/ce4cecaaf5eb6bf58901538f171cefdd.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png/revision/latest/scale-to-width-down/272?cb=20201219015342&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Lavos",
+        "prime": {
+            "nom": " ",
+            "dispo":false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "limbo": {
+        "nom": "Limbo",
+        "description": "S'obtient en terminant la quête **Le Théorème de Limbo** dans la jonction de Europe sur Jupiter (info codex)",
+        "imgurl": "https://www.clan-warframe.fr/wp-content/uploads/2017/12/Limbo.png",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/1/14/LimboNewLook.png/revision/latest?cb=20141124023126",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Limbo",
+        "prime": {
+            "nom": "Limbo Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://i0.wp.com/www.thexboxhub.com/wp-content/uploads/2018/09/warframe-limbo-prime.jpg",
+            "thumurl": "https://img.pngio.com/conclavelimbo-prime-warframe-wiki-fandom-powered-by-wikia-warframe-limbo-png-272_278.png",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Limbo/Prime"
+        }
+    },
+    "loki": {
+        "nom": "Loki",
+        "description": "Ses pièces s'obtiennent en terrassant La Meute Hyena dans la mission Psamathe sur Neptune mais son schéma est dans le marché",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHRkdWG5m27OJm28thrhPy3TDpeq-9Uft3oA&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/1/1c/LokiNewLook.png/revision/latest?cb=20141124023132",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Loki",
+        "prime": {
+            "nom": "Loki Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la volt",
+            "imgurl": "https://games-b26f.kxcdn.com/wp-content/uploads/2014/07/LokiPrimewarframe.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/7/78/LokiPrimeNewLook.png/revision/latest?cb=20150113132545&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Loki/Prime"
+        }
+    },
+    "mag": {
+        "nom": "Mag",
+        "description": "Ses pièces s'obtiennent en terrassant Le Sergent dans la mission L'Iliad sur Phobos  mais son schéma est dans le marché",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-mag-vignette.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/b/bf/MagNewLook.png/revision/latest?cb=20141124023147",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Mag",
+        "prime": {
+            "nom": "Mag Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la volt",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/f/fe/MagPrimePromo.jpg/revision/latest/scale-to-width-down/600?cb=20150509133532&path-prefix=fr",
+            "thumurl": "https://i.pinimg.com/originals/52/8e/c7/528ec74b5323e46b652d074e1eb6ba11.png",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Mag/Prime"
+        }
+    },
+    "mesa": {
+        "nom": "Mesa",
+        "description": "Ses pièces s'obtiennent en terrassant Alad V. Mutaliste mais son schéma s'obtient en terminant la quête Patient Zéro (info codex)",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgBOEuxSoOiXYnnxjjkk4Xl1QjbDr_M_fGXA&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a6/MesaLarge.png/revision/latest?cb=20141211171927",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Mesa",
+        "prime": {
+            "nom": "Mesa Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/e66edbe6644f874025ceaebf65c6cf36.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/8/81/MesaPrime.png/revision/latest?cb=20181219004245&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Mesa/Prime"
+        }
+    },
+    "mirage": {
+        "nom": "Mirage",
+        "description": "S'obtient en terminant la quête **Messages Cachés** dans la jonction de Sedna sur Pluton (info codex)",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsSeJpZdNGvqzM7y3_xyzUzSvxrn5K-pOPzQ&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/3/31/MirageNewLook.png/revision/latest?cb=20141124023203",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Mirage",
+        "prime": {
+            "nom": "Mirage Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d8/MiragePrimeAccess.png/revision/latest/scale-to-width-down/500?cb=20171205191733&path-prefix=fr",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/c/ca/MiragePrime-0.png/revision/latest/zoom-crop/width/360/height/360?cb=20180223181116&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Mirage/Prime"
+        }
+    },
+    "nekros": {
+        "nom": "Nekros",
+        "description": "Ses pièces s'obtiennent en terrassant Lephantis dans les épaves Orokin, en utilisant une clé d Épave assassinat",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ7slBDI09ppjuloN1AUKBSRUrdgXKcbbrEg&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/c/cc/NekrosNewLook.png/revision/latest?cb=20141124023210",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nekros",
+        "prime": {
+            "nom": "Nekros Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "http://www.clan-warframe.fr/wp-content/uploads/2016/08/Nekros_Prime_Teaser.png",
+            "thumurl": "https://rivenmarket.com/storage/items/nekrosprime-large.png",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Nekros/Prime"
+        }
+    },
+    "nezha": {
+        "nom": "Nezha",
+        "description": "S'obtient dans le dojo dans le laboratoire Tenno",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpePsr8MMU_s9lxCAHvfS-Sq0oofIKhXJ2A&usqp=CAU",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/4/45/NezhaNewLook.png/revision/latest/scale-to-width-down/279?cb=20180514035219&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nezha",
+        "prime": {
+            "nom": "Nezha Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/07dd31bb3e96d47b2c5a6b00a0356f08.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/3/31/Nezha_Prime.png/revision/latest?cb=20201027210618&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Nezha/Prime"
+        }
+    },
+    "nidus": {
+        "nom": "Nidus",
+        "description": "Son schéma s'obtient en terminant la quête Le Stratagème de Glast (info codex) mais ses pièces s'obtiennent dans Oestrus sur Eris Rotation C",
+        "imgurl": "https://cdn.images.express.co.uk/img/dynamic/143/590x/Warframe-update-756439.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/5/57/Nidus2.png/revision/latest/top-crop/width/360/height/450?cb=20161223220708&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nidus",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "nova": {
+        "nom": "Nova",
+        "description": "Ses pièces s'obtiennent en terrassant le Raptor dans la mission Naamah sur Europe mais son schéma est dans le marchés",
+        "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/08/AntimatterWarframePromo.jpg/revision/latest?cb=20131225200106",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/5/52/NovaNewLook.png/revision/latest?cb=20141124023217",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nova",
+        "prime": {
+            "nom": "Nova Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/b/b1/NovaPrime.jpg/revision/latest/scale-to-width-down/600?cb=20151013193541",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/3/38/NovaPrimeNewLook.png/revision/latest/top-crop/width/360/height/450?cb=20150326194522&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Nova/Prime"
+        }
+    },
+    "nyx": {
+        "nom": "Nyx",
+        "description": "Ses pièces  s'obtiennent en terrassant  Phorid en alerte invasion Infestés mais son schéma est dans le marché",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTc9yYP5orKH8Y_mWztxnu5HjzQWa7y9HHKQ&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/c/cb/NyxNewLook.png/revision/latest?cb=20141124023223",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Nyx",
+        "prime": {
+            "nom": "Nyx Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://store-images.s-microsoft.com/image/apps.26146.67031864218863520.207ec494-ca1c-4a40-ba5f-97597d9921b4.28ea2667-9b3f-46bc-bbe8-bd7d123ef9a0?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/a/aa/NyxPrimeNewLook.png/revision/latest?cb=20150115124136&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Nyx/Prime"
+        }
+    },
+    "oberon": {
+        "nom": "Oberon",
+        "description": "Ses pièces s'obtiennent en tuant des Eximus mais son schéma est dans le marché",
+        "imgurl": "https://images7.alphacoders.com/516/thumb-1920-516360.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/8/8c/OberonNewLook.png/revision/latest?cb=20150223022507",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Oberon",
+        "prime": {
+            "nom": "Oberon Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/4437469/b00cd6c1a1d0a745a60bb9a4d697995aa4342152.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/0/0b/Oberon_Prime.png/revision/latest?cb=20170601194333&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Oberon/Prime"
+        }
+    },
+    "octavia": {
+        "nom": "Octavia",
+        "description": "Son schéma s'obtient en terminant la quête l Hymne d Octavia (info codex) mais ses pièces s'obtiennent dans des missions particulières: Neuroptique (survie dans l'épave Orokin en rotation C),Châssis (défie de la salle de musique sur Lua),Système (dans les caches de la mission Plato sur lua)",
+        "imgurl": "https://www.playfrance.com/images/games/20151/artworks/07472182.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/a/a9/Octavia.png/revision/latest/top-crop/width/360/height/450?cb=20170327160244&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Octavia",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "protea": {
+        "nom": "Protea",
+        "description": "Le schéma principal de Protea est obtenu à la fin de la quête **Le Protocole : Exclusion**. Les schémas des composants s'obtiennent dans **le Néant de Granum**.\nLes Neuroptiques dans la Rotation C, le Châssis dans la Rotation C Étendu, et le Système dans la Rotation C Cauchemardesque avec un taux de drope de **11,11%**",
+        "imgurl": "https://squadstate.com/wp-content/uploads/2020/06/warframe-protea.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/5/59/Protea.png/revision/latest?cb=20200813085403&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Protea",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "revenant": {
+        "nom": "Revenant",
+        "description": "S'obtient en terminant la quête **Le Masque du Revenant** sur Cetus sur Terre (info codex) mais ses pièce s'obtient dans les mise à prix de Cetus",
+        "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/61cb4a6905ef705fb66fa0343591d997.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/8/87/Warframe_revenant.png/revision/latest?cb=20181017174011&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Revenant",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "rhino": {
+        "nom": "Rhino",
+        "description": "Ses pièces s'obtiennent en terrassant le Jackal dans la mission Fossa sur Vénus",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-Rhino-vignette.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/4/40/RhinoNewLook.png/revision/latest/scale-to-width-down/291?cb=20141124023302",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Rhino",
+        "prime": {
+            "nom": "Rhino Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/d4fcc619fb5a30722d63b62ef307d3f5.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/6/6f/RhinoPrime2.png/revision/latest?cb=20141215124713&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Rhino/Prime"
+        }
+    },
+    "saryn": {
+        "nom": "Saryn",
+        "description": "Ses pièces s'obtiennent en terrassant Kela De Thaym dans la mission Merrow sur Sedna, mais requière 25 points de jugement qui s'obtiennent sur Nakki sur Sedna",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-saryn-vignette.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/d/d9/SarynNewLook.png/revision/latest?cb=20141124023331",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Saryn",
+        "prime": {
+            "nom": "Saryn Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://store-images.s-microsoft.com/image/apps.35177.14624177915321756.eb5affb6-1e4a-4ceb-9864-68b5b921b851.a8a4e13d-d4cb-48c3-a127-d421a4d823a6?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/0/08/SarynPrimeLarge.png/revision/latest?cb=20160223164011&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Saryn/Prime"
+        }
+    },
+    "titania": {
+        "nom": "Titania",
+        "description": "S'obtient en terminant la quête **Le Bosquet d'Argent** (info codex)\n(**Pour avoir des infos sur les plantes nécessaire faite:** *[prefix]Plantes*)",
+        "imgurl": "https://i.redd.it/fw5uhb15duc11.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/8/84/TitaniaNewLook.png/revision/latest?cb=20180514035354&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Titania",
+        "prime": {
+            "nom": "Titania Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/16d278cd8b6a4c2ca51115874d9269fc.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/f/fe/Titania_Prime.png/revision/latest?cb=20200401110715&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Titania#Prime"
+        }
+    },
+    "trinity": {
+        "nom": "Trinity",
+        "description": "Ses pièces s'obtiennent en terrassant les Ambulas dans la mission Hades sur Pluton mais son schéma est dans le marché",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvjyFqxiqAjdUeLtjQjxZKkcejoYX2AJ7Z8g&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/0/00/TrinityNewLook.png/revision/latest?cb=20141124023338",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Trinity",
+        "prime": {
+            "nom": "Trinity Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/391d7c17c7c62bccfab2ad363ea86ddd.jpg",
+            "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/7/78/TrinityPrimeMain.png/revision/latest?cb=20200208134535",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Trinity/Prime"
+        }
+    },
+    "valkyr": {
+        "nom": "Valkyr",
+        "description": "Ses pièces s'obtiennent en terrassant Alad V (V et non 5) dans la mission Themisto sur Jupiter mais son schéma est dans le marché",
+        "imgurl": "https://images8.alphacoders.com/516/thumb-1920-516348.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/0/0e/ValkyrNewLook.png/revision/latest?cb=20141124023346",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Valkyr",
+        "prime": {
+            "nom": "Valkir Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://i.ytimg.com/vi/f_e81r_dvVw/maxresdefault.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/b/b0/ValkyrPrimeIcon.png/revision/latest/zoom-crop/width/360/height/360?cb=20161122224512&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Valkyr/Prime"
+        }
+    },
+    "vauban": {
+        "nom": "Vauban",
+        "description": "S'obtient exclusivement via la boutique à jeton des ondes nocturnes (chaque schéma coutant **25** jetons)",
+        "imgurl": "https://static.wikia.nocookie.net/warframe/images/7/7a/Warframe_Profile_-_Vauban/revision/latest/scale-to-width-down/340?cb=20131001194907&path-prefix=fr",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/2/23/VaubanNewLook.png/revision/latest?cb=20141124023352",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Vauban",
+        "prime": {
+            "nom": "Vauban Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/9b4c9ab874b3e531e7f666f455e619a0.jpg",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/3/34/VaubanPrime.png/revision/latest?cb=20160602111214&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Vauban/Prime"
+        }
+    },
+    "volt": {
+        "nom": "Volt",
+        "description": "S'obtient dans le dojo dans le laboratoire Tenno",
+        "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcXDYnWeJdsb839zmTKJlQzQaafqMzqcyJtw&usqp=CAU",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4d/VoltNewLook.png/revision/latest/scale-to-width-down/582?cb=20141124023359",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Volt",
+        "prime": {
+            "nom": "Volt Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "http://s.ecrater.com/stores/408554/5a917a9738d8a_408554b.jpg",
+            "thumurl": "https://www.razor7.org/wp-content/uploads/2017/02/VoltPrime-Medium-495x1030.png",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Volt/Prime"
+        }
+    },
+    "wisp": {
+        "nom": "Wisp",
+        "description": "Tous ces composants, schéma inclus, s'obtiennent en terrassant le Ropalolyst sur Jupiter",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe-wisp-wallpaper-vignette-breakflip.jpg",
+        "thumurl": "https://static.wikia.nocookie.net/warframe/images/e/e7/Wisp.png/revision/latest?cb=20190423122056&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Wisp",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "wukong": {
+        "nom": "Wukong",
+        "description": "S'obtient dans le dojo dans le laboratoire Tenno",
+        "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/58b7056f673b63137bb80211a787f7ba.jpg",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/9/91/WukongNewIcon.png/revision/latest?cb=20151125205508",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Wukong",
+        "prime": {
+            "nom": "Wukong Prime",
+            "dispo": true,
+            "vault": false,
+            "description": "Dispo dans les reliques",
+            "imgurl": "https://store-images.s-microsoft.com/image/apps.3668.14528339672050530.1f539bf8-bb3a-4a11-b7b8-576f93bacaff.b440b4cf-17fe-4209-8bec-ac87aad6353f?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/6/6e/Wukong_Prime.png/revision/latest/scale-to-width-down/220?cb=20190708214856&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Wukong/Prime"
+        }
+    },
+    "xaku": {
+        "nom": "Xaku",
+        "description": "Le plan principal de Xaku sera attribué à la fin de la quête *Cœur de Deimos* . Les plans des composants de Xaku sont acquis auprès de **Puy de Cambion**, dans les mise a prix 2,4 et 5",
+        "imgurl": "https://n9e5v4d8.ssl.hwcdn.net/images/promo/deimos/info/screen/WF_Deimos_Screenshot_XakuBundle_4K.jpg",
+        "thumurl": "https://zupimages.net/up/20/44/o7b1.gif",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Xaku",
+        "prime": {
+            "nom": " ",
+            "dispo": false,
+            "vault": false,
+            "description": " ",
+            "imgurl": " ",
+            "thumurl": " ",
+            "wikiurl": " "
+        }
+    },
+    "zephyr": {
+        "nom": "Zephyr",
+        "description": "S'obtient dans le dojo dans le laboratoire Tenno",
+        "imgurl": "https://www.breakflip.com/uploads/AAA/Digital%20extreme/Warframe/vignette/warframe_zephyr_vignette.png",
+        "thumurl": "https://vignette.wikia.nocookie.net/warframe/images/f/fc/ZephyrNewLook.png/revision/latest?cb=20150218090729&path-prefix=fr",
+        "wikiurl": "https://warframe.fandom.com/fr/wiki/Zephyr",
+        "prime": {
+            "nom": "Zephyr Prime",
+            "dispo": true,
+            "vault": true,
+            "description": "Dispo dans les reliques de la vault",
+            "imgurl": "https://n8k6e2y6.ssl.hwcdn.net/images/_newsImages/2018/March/13/ZephyrPrime_Keyart.png",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/6/68/ZephyrPrimeIcon.png/revision/latest?cb=20180323142244&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Zephyr/Prime"
+        }
+    }
+}

@@ -1,3 +1,3 @@
 # Cerbere_Data
 
-Retrouver ici la data relative a Warframe dont le bot Cerbère exploite 
+Retrouver ici Voici la data que le bot Cerbère exploite

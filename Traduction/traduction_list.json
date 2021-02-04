@@ -3,7 +3,7 @@
     "sceptre": "scepter",
     "dague": "dagger",
     "double": "dual",
-    "": "reaper",
-    "": "rifle",
-    "": "heat"
+    "faux": "reaper",
+    "fusil": "rifle",
+    "feu": "heat"
 }

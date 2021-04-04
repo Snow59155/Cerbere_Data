@@ -5,8 +5,6 @@ En utilisant la commande `[prefix]todo [parametre]` vous affirmez avoir lus et a
 
 ***
 ### Sommaire :
-- [Todo - condition d'utilisation](#todo---condition-dutilisation)
-    - [Sommaire :](#sommaire-)
   - [1. Conservation des données](#1-conservation-des-données)
   - [2. Utilisation](#2-utilisation)
   - [3. "Droit"](#3-droit)

@@ -1,4 +1,4 @@
-# Todo | condition d'utilisation
+# Todo - condition d'utilisation
 > Cerbère version `1.8.0` ou supérieur
 
 En utilisant la commande `[prefix]todo [parametre]` vous affirmez avoir lus et aprouvé l'ensemble de ces conditions d'utilisations.
@@ -103,4 +103,4 @@ En utilisant la commande `[prefix]todo [parametre]` vous affirmez avoir lus et a
 
 <br>
 
-[revenir en haut](#Todo-|-condition-d'utilisation)
+[revenir en haut](#Todo---condition-d'utilisation)

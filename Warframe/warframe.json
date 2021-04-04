@@ -518,13 +518,13 @@
         "thumurl": "https://static.wikia.nocookie.net/warframe/images/a/a9/Octavia.png/revision/latest/top-crop/width/360/height/450?cb=20170327160244&path-prefix=fr",
         "wikiurl": "https://warframe.fandom.com/fr/wiki/Octavia",
         "prime": {
-            "nom": " ",
-            "dispo": false,
+            "nom": "Octavia Prime",
+            "dispo": true,
             "vault": false,
-            "description": " ",
-            "imgurl": " ",
-            "thumurl": " ",
-            "wikiurl": " "
+            "description": "Octavia Prime est la variante Octavia, possédant des **Boucliers** et de **l'Énergie** plus élevés. Révélé dans *le Devstream 151*, **Octavia Prime** est la prochaine Warframe Prime et sortira avec *le Tenora Prime* et *le Pandero Prime*.",
+            "imgurl": "https://cdn2.unrealengine.com/wf-octaviaprimeaccess-featureddesktopimage-1248x702-1920x1080-e90bf9486940.png?h=480&resize=1&w=854",
+            "thumurl": "https://static.wikia.nocookie.net/warframe/images/9/97/Octavia_PrimeIcon272.png/revision/latest/scale-to-width-down/278?cb=20210223213145&path-prefix=fr",
+            "wikiurl": "https://warframe.fandom.com/fr/wiki/Octavia#Prime_"
         }
     },
     "protea": {

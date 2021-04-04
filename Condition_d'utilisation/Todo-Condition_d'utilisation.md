@@ -76,8 +76,8 @@ En utilisant la commande `[prefix]todo [parametre]` vous affirmez avoir lus et a
 ***
 ## 2. Utilisation
 
-- Nous considérons l'utilisation de la commande `[prefix]todo [parametre]` dans un cadre [*publique**](#*publique**-:) de se fait nous considerons aussi l'ensemble de vos données comme [*publique**](#*publique**-:).
-- Il est donc fortement déconseillé de stocker au sein de la todo toutes informations personnelles ou sensible (mot de passe, indentifiant ou autre information personnel qui ne devrais pas se retrouver dans le dommaine [*publique**](#*publique**-:)).
+- Nous considérons l'utilisation de la commande `[prefix]todo [parametre]` dans un cadre [*publique**](#publique-) de se fait nous considerons aussi l'ensemble de vos données comme [*publique**](#publique-).
+- Il est donc fortement déconseillé de stocker au sein de la todo toutes informations personnelles ou sensible (mot de passe, indentifiant ou autre information personnel qui ne devrais pas se retrouver dans le dommaine [*publique**](#publique-)).
 - Lorsque vous utiliser la commande `[prefix]todo [parmetre]` vous ête l'unique et le seul responsable de sont utilisation et du contenue de celle-ci.
 ***
 ## 3. "Droit"
@@ -103,4 +103,4 @@ En utilisant la commande `[prefix]todo [parametre]` vous affirmez avoir lus et a
 
 <br>
 
-[revenir en haut](#todo---condition-d'utilisation)
+[revenir en haut](#todo---condition-dutilisation)

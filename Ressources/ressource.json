@@ -1,7 +1,7 @@
 {
     "extrait de nitain": {
         "nom": "Extrait de Nitain",
-        "description": "S'obtient en récompence des Ondes Nocturnes (Nora Night) contre des points, ou les Mises à Prix Goules de Cetus peuvent récompenser chaque tier d'un Extrait de Nitain (évènement ponctuel)",
+        "description": "S'obtient en récompence des Ondes Nocturnes (Nora Night) contre des jetons, ou les Mises à Prix Goules de Cetus peuvent récompenser chaque étape d'un Extrait de Nitain (évènement ponctuel)",
         "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/4/4d/DENitainExtract.png/revision/latest?cb=20151126064952&path-prefix=fr",
         "wikiurl": "https://warframe.fandom.com/fr/wiki/Extrait_de_Nitain",
         "apiname": "Nitain Extract"
@@ -70,7 +70,7 @@
         "apiname": "Plastids"
     },
     "capteur neuronaux": {
-        "nom": "Capteur Neuronaux",
+        "nom": "Capteurs Neuronaux",
         "description": "S'obtient sur Jupiter et Forterrese Kuva ou assassinat Alad V (Themisto, Jupiter)",
         "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/e/ec/CapteursNeuronaux.png/revision/latest?cb=20130828015030&path-prefix=fr",
         "wikiurl": "https://warframe.fandom.com/fr/wiki/Capteurs_Neuronaux",
@@ -126,14 +126,14 @@
         "apiname": "Detonite Ampule"
     },
     "echantillon de fieldron": {
-        "nom": "Echantillon de Fieldron",
+        "nom": "Échantillon de Fieldron",
         "description": "S'obtient sur Venus, Mars, Jupiter, Europe, Neptune et sur Pluton",
         "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/0/0b/Fieldron_Sample2.png/revision/latest?cb=20141009131307&path-prefix=fr",
         "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89chantillon_de_Fieldron",
         "apiname": "Fieldron Sample"
     },
     "echantillon mutagène": {
-        "nom": "Echantillon Mutagène",
+        "nom": "Échantillon Mutagène",
         "description": "S'obtient sur Eris ou Epave Orokin",
         "imgurl": "https://vignette.wikia.nocookie.net/warframe/images/a/a2/Mutagen_Sample2.png/revision/latest?cb=20130701160704&path-prefix=fr",
         "wikiurl": "https://warframe.fandom.com/fr/wiki/%C3%89chantillon_Mutag%C3%A8ne",
